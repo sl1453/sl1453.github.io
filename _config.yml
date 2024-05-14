@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Shicanlion Claire
 
 # Your name to show in the footer
-author: Some Person
+author: Shican (Claire) Li
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,11 +21,17 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  How I Rest From Work:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
+  My Research: "https://deanattali.com"
+  My Bioinformatic workflow:
+  My Data Visualization Scripts:
+  Teaching:
+  Science Outreach:
+  Why Hire Me:
+  
+  
 ################
 # --- Logo --- #
 ################
@@ -50,7 +56,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "sl1453@georgetown.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
   github: daattali
