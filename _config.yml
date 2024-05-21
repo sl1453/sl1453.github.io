@@ -22,13 +22,13 @@ author: ShicanLion Claire
 navbar-links:
   About Me: "aboutme"
   Research:
-    - Summary: "https://beautifuljekyll.com"
+    - Biophysics/Chemical Bio/Cell Bio: "https://beautifuljekyll.com"
     - Bioinformatic Projects: "https://www.markdowntutorial.com/"
     - Data visulizaton R scripts: "data visulization repository.md"
     - Spatial Point Pattern Analysis R scripts: "GeoSpatial analysis repository.md"
   Teaching:
   Influencer Blog: "influencer_blog.md"
-  My Artworks: "https://deanattali.com"
+  Arts Beyond Work: "https://deanattali.com"
   
   
 ################
