@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Shicanlion Claire
+title: Shican (Claire) Li
 
 # Your name to show in the footer
-author: Shican (Claire) Li
+author: ShicanLion Claire
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,15 +21,17 @@ author: Shican (Claire) Li
 
 navbar-links:
   About Me: "aboutme"
-  How I Rest From Work:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  My Research: "https://deanattali.com"
-  My Bioinformatic workflow:
-  My Data Visualization Scripts:
+  Research:
+    - Summary: "https://beautifuljekyll.com"
+      - Biochemistry:
+      - Biophysics:
+      - Cellbiology & Parasitology: 
+    - Bioinformatic Projects: "https://www.markdowntutorial.com/"
+    - Data visulizaton R scripts: "data visulization repository.md"
+    - Spatial Point Pattern Analysis R scripts: "GeoSpatial analysis repository.md"
   Teaching:
-  Science Outreach:
-  Why Hire Me:
+  Influencer Blog: "influencer_blog.md"
+  My Artworks: "https://deanattali.com"
   
   
 ################
@@ -56,21 +58,24 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "sl1453@georgetown.edu"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: "claire.li.lsc/"
+
+  ORCID: "0009-0008-5622-8932"
+  google-scholar: "citations?user=-4eGXNUAAAAJ&hl=en"
   github: "sl1453"
+  linkedin: shicanclaireli145379
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   twitter: daattali
+  facebook: "claire.li.lsc/"
+  instagram: lsc996
+#  email: "sl1453@georgetown.edu"
 #  patreon: DeanAttali
 #  youtube: "@daattali"
 #  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
-  linkedin: shicanclaireli145379
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: lsc996
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -80,8 +85,6 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-  ORCID: "0009-0008-5622-8932"
-  google-scholar: "citations?user=-4eGXNUAAAAJ&hl=en"
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -106,7 +109,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "sl1453@georgetown.edu"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
