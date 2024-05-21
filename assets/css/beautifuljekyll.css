@@ -349,7 +349,7 @@ img {
   position: absolute;
   left: 50%;
   width: 9.375rem;
-  bottom: -30%;
+  bottom: -4.5rem;
   transition: opacity 0.5s ease-in-out;
   -webkit-transition: opacity 0.5s ease-in-out;
   -moz-transition: opacity 0.5s ease-in-out;
@@ -387,7 +387,7 @@ img {
 @media (min-width: 1200px) {
   .navbar-custom.top-nav-regular .avatar-container {
     width: 12.5rem;
-    bottom: -30%;
+    bottom: -6rem;
   }
 
   .navbar-custom.top-nav-regular .avatar-container .avatar-img-border {
