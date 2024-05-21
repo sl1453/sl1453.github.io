@@ -23,9 +23,6 @@ navbar-links:
   About Me: "aboutme"
   Research:
     - Summary: "https://beautifuljekyll.com"
-      - Biochemistry:
-      - Biophysics:
-      - Cellbiology & Parasitology: 
     - Bioinformatic Projects: "https://www.markdowntutorial.com/"
     - Data visulizaton R scripts: "data visulization repository.md"
     - Spatial Point Pattern Analysis R scripts: "GeoSpatial analysis repository.md"
