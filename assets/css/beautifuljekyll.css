@@ -155,6 +155,9 @@ img {
   background-color: var(--navbar-col);
   border-bottom: 1px solid var(--navbar-border-col);
   font-family: var(--header-font);
+  display: flex; /* Added line */
+  align-items: center; /* Added line */
+  justify-content: space-between; /* Added line */
   {% if site.navbar-img %}
     background-image: url({{ site.navbar-img | relative_url }});
     background-attachment: fixed;
@@ -162,6 +165,14 @@ img {
   -webkit-transition: padding .5s ease-in-out;
   -moz-transition: padding .5s ease-in-out;
   transition: padding .5s ease-in-out;
+}
+
+
+.navbar-custom .navbar-nav {
+  display: flex; /* Added line */
+  align-items: center; /* Added line */
+  justify-content: space-around; /* Added line */
+  flex: 1; /* Distribute space evenly */
 }
 
 .navbar-custom,
@@ -207,6 +218,7 @@ img {
   text-transform: uppercase;
   font-size: 0.8125rem;
   letter-spacing: 0.0625rem;
+  margin: 0 1rem; /* Add margin to create space between links */
 }
 
 .navbar-custom .navbar-nav .nav-link {
