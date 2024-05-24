@@ -222,7 +222,7 @@ img {
 }
 
 .navbar-custom .navbar-nav .nav-item.middle-tab {
-  margin-left: 2rem; /* Increase margin to avoid overlapping with avatar */
+  margin-left: 0.5rem; /* Increase margin to avoid overlapping with avatar */
   margin-right: 5rem; /* Ensure balanced spacing on both sides */
 }
 
@@ -295,12 +295,12 @@ img {
   font-size: 1em;
   border: none;
   padding: 0;
+  white-space: nowrap; /*Prevent breaking words into multiple lines */
   {% if site.navbar-var-length %}
   min-width: 100%;
   {% else %}
   min-width: 0;
   width: 100%;
-  white-space: nowrap; /*Prevent breaking words into multiple lines */
   {% endif %}
 }
 
@@ -310,8 +310,9 @@ img {
   text-decoration: none !important;
   font-weight: normal;
   color: var(--navbar-text-col);
-  {% unless site.navbar-var-length %}
   white-space: nowrap;
+  {% unless site.navbar-var-length %}
+  white-space: normal;
   {% endunless %}
 }
 
