@@ -223,7 +223,7 @@ img {
 
 .navbar-custom .navbar-nav .nav-item.middle-tab {
   margin-left: 2rem; /* Increase margin to avoid overlapping with avatar */
-  margin-right: 2rem; /* Ensure balanced spacing on both sides */
+  margin-right: 5rem; /* Ensure balanced spacing on both sides */
 }
 
 .navbar-custom .navbar-nav .nav-link {
@@ -311,7 +311,7 @@ img {
   font-weight: normal;
   color: var(--navbar-text-col);
   {% unless site.navbar-var-length %}
-  white-space: normal;
+  white-space: nowrap;
   {% endunless %}
 }
 
