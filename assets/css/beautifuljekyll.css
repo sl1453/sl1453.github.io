@@ -171,7 +171,7 @@ img {
 .navbar-custom .navbar-nav {
   display: flex; /* Added line */
   align-items: center; /* Added line */
-  justify-content: space-around; /* Added line */
+  justify-content: space-between; /* Added line */
   flex: 1; /* Distribute space evenly */
 }
 
@@ -219,6 +219,11 @@ img {
   font-size: 0.8125rem;
   letter-spacing: 0.0625rem;
   margin: 0 1rem; /* Add margin to create space between links */
+}
+
+.navbar-custom .navbar-nav .nav-item.middle-tab {
+  margin-left: 2rem; /* Increase margin to avoid overlapping with avatar */
+  margin-right: 2rem; /* Ensure balanced spacing on both sides */
 }
 
 .navbar-custom .navbar-nav .nav-link {
@@ -288,14 +293,14 @@ img {
 .navbar-custom .nav-item.dropdown .dropdown-menu {
   margin-top: 0;
   font-size: 1em;
-  border: 0;
+  border: none;
   padding: 0;
   {% if site.navbar-var-length %}
   min-width: 100%;
   {% else %}
   min-width: 0;
   width: 100%;
-  word-break: break-word;
+  white-space: nowrap; /*Prevent breaking words into multiple lines */
   {% endif %}
 }
 
