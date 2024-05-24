@@ -20,15 +20,19 @@ author: ShicanLion Claire
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About: "aboutme"
   Research:
-    - Biophysics/Chemical Bio/Cell Bio: "https://beautifuljekyll.com"
-    - Bioinformatic Projects: "https://www.markdowntutorial.com/"
-    - Data visulizaton R scripts: "data visulization repository.md"
-    - Spatial Point Pattern Analysis R scripts: "GeoSpatial analysis repository.md"
+    - Biophysics:
+    - Cell Bio/Parasitology: "https://beautifuljekyll.com"
+    - Chemical Bio:
+    - Bioinformatics: "https://www.markdowntutorial.com/"
+  Data Ana & Viz:
+    - GeoSpatial Analysis: "GeoSpatial analysis repository.md"
+    - RNA Seq:
+    - Data Viz R scripts: "data visulization repository.md"
   Teaching:
   Influencer Blog: "influencer_blog.md"
-  Arts Beyond Work: "https://deanattali.com"
+  Artworks: "https://deanattali.com"
   
   
 ################
