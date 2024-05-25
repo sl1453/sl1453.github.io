@@ -221,13 +221,18 @@ img {
   margin: 0 1rem; /* Add margin to create space between links */
 }
 
-/* Create a big space between the 3rd and 4th tab for the avatar */
+/* Create a big space between the _*rd and _*th tab for the avatar */
+.navbar-custom .navbar-nav .nav-item:nth-child(1) {
+  margin-left: 3rem; /* Adjust the space as needed */
+}
+
 .navbar-custom .navbar-nav .nav-item:nth-child(3) {
-  margin-right: 2.5rem; /* Adjust the space as needed */
+  margin-left: 1.5rem; /* Adjust the space as needed */
+  margin-right: 2rem;
 }
 
 .navbar-custom .navbar-nav .nav-item:nth-child(4) {
-  margin-left: 2.5rem; /* Adjust the space as needed */
+  margin-left: 2rem; /* Adjust the space as needed */
 }
 
 .navbar-custom .navbar-nav .nav-link {
