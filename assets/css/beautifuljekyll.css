@@ -155,9 +155,9 @@ img {
   background-color: var(--navbar-col);
   border-bottom: 1px solid var(--navbar-border-col);
   font-family: var(--header-font);
-  display: flex; /* Added line */
-  align-items: center; /* Added line */
-  justify-content: space-between; /* Added line */
+  display: flex; /* Ensure flexbox layout */
+  align-items: center; /* Center items vertically */
+  justify-content: space-between; /* Space out items */
   {% if site.navbar-img %}
     background-image: url({{ site.navbar-img | relative_url }});
     background-attachment: fixed;
@@ -169,10 +169,10 @@ img {
 
 
 .navbar-custom .navbar-nav {
-  display: flex; /* Added line */
-  align-items: center; /* Added line */
-  justify-content: space-between; /* Added line */
-  flex: 1; /* Distribute space evenly */
+  display: flex; /* Ensure flexbox for navbar items */
+  align-items: center; /* Center items vertically */
+  justify-content: space-between; /* Space out items */
+  flex: 1; /* Distribute remaining space evenly */
 }
 
 .navbar-custom,
@@ -221,9 +221,11 @@ img {
   margin: 0 1rem; /* Add margin to create space between links */
 }
 
-.navbar-custom .navbar-nav .nav-item.middle-tab {
-  margin-left: 0.5rem; /* Increase margin to avoid overlapping with avatar */
-  margin-right: 5rem; /* Ensure balanced spacing on both sides */
+/* Create a big space between the 3rd and 4th tab for the avatar */
+.navbar-custom .navbar-nav .nav-item:nth-child(3)::after {
+  content: '';
+  width: 8rem; /* Adjust the space as needed */
+  display: inline-block;
 }
 
 .navbar-custom .navbar-nav .nav-link {
@@ -296,12 +298,13 @@ img {
   border: none;
   padding: 0;
   white-space: nowrap; /*Prevent breaking words into multiple lines */
-  {% if site.navbar-var-length %}
+  min-width: 10rem; /* Set a minimum width to ensure items are wrapped inside */
+  /*{% if site.navbar-var-length %}
   min-width: 100%;
   {% else %}
   min-width: 0;
   width: 100%;
-  {% endif %}
+  {% endif %} */
 }
 
 .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
@@ -310,6 +313,8 @@ img {
   text-decoration: none !important;
   font-weight: normal;
   color: var(--navbar-text-col);
+  overflow: hidden; /* Ensure items are contained within the dropdown */
+  text-overflow: ellipsis; /* Add ellipsis to overflowing text */
   white-space: nowrap;
   {% unless site.navbar-var-length %}
   white-space: normal;
@@ -319,12 +324,17 @@ img {
 @media (min-width: 1200px) {
   .navbar-custom .nav-item.dropdown .dropdown-menu {
     text-align: center;
+    white-space: nowrap; /* Prevent breaking words into multiple lines */
+    min-width: 10rem; /* Ensure consistent minimum width */
   }
 
   .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
     padding-left: 0.625rem;
     border: 1px solid var(--navbar-border-col);
     border-width: 0 1px 1px;
+    overflow: hidden; /* Ensure items are contained within the dropdown */
+    text-overflow: ellipsis; /* Add ellipsis to overflowing text */
+    white-space: nowrap; /* Ensure words don't break */
   }
 
   .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item:first-child {
@@ -352,6 +362,9 @@ img {
 
   .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
     padding-left: 2rem;
+    overflow: hidden; /* Ensure items are contained within the dropdown */
+    text-overflow: ellipsis; /* Add ellipsis to overflowing text */
+    white-space: nowrap; /* Ensure words don't break */
   }
 }
 .navbar-custom .navbar-brand:hover,
