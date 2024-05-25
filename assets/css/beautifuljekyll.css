@@ -156,7 +156,7 @@ img {
   border-bottom: 1px solid var(--navbar-border-col);
   font-family: var(--header-font);
   display: flex; /* Ensure flexbox layout */
-  align-items: center; /* Center items vertically */
+  /* align-items: center; /* Center items vertically */
   justify-content: space-between; /* Space out items */
   {% if site.navbar-img %}
     background-image: url({{ site.navbar-img | relative_url }});
@@ -170,7 +170,7 @@ img {
 
 .navbar-custom .navbar-nav {
   display: flex; /* Ensure flexbox for navbar items */
-  align-items: center; /* Center items vertically */
+  /* align-items: center; /* Center items vertically */
   justify-content: space-between; /* Space out items */
   flex: 1; /* Distribute remaining space evenly */
 }
@@ -223,26 +223,27 @@ img {
 
 /* Create a big space between the _*rd and _*th tab for the avatar */
 .navbar-custom .navbar-nav .nav-item:nth-child(1) {
-  margin-left: 3rem; /* Adjust the space as needed */
-  margin-right: 1rem;
+  margin-left: 4rem; /* Adjust the space as needed */
+  margin-right: 0.5rem;
 }
 
 .navbar-custom .navbar-nav .nav-item:nth-child(2) {
-  margin-left: 1rem; /* Adjust the space as needed */
-  margin-right: 1rem;
+  margin-left: 0.5rem; /* Adjust the space as needed */
+  margin-right: 0.5rem;
 }
 
 .navbar-custom .navbar-nav .nav-item:nth-child(3) {
-  margin-left: 1rem; /* Adjust the space as needed */
-  margin-right: 6rem;
+  margin-left: 0.5rem; /* Adjust the space as needed */
+  margin-right: 6.5rem;
 }
 
 .navbar-custom .navbar-nav .nav-item:nth-child(4) {
   margin-left: 0rem; /* Adjust the space as needed */
+  margin-right: 3rem;
 }
 
 .navbar-custom .navbar-nav .nav-item:nth-child(6) {
-  margin-right: 6rem; /* Adjust the space as needed */
+  margin-right: 4rem; /* Adjust the space as needed */
 }
 
 .navbar-custom .navbar-nav .nav-link {
