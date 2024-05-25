@@ -26,11 +26,11 @@ navbar-links:
     - Cell Bio/Parasitology: "https://beautifuljekyll.com"
     - Chemical Bio:
     - Bioinformatics: "https://www.markdowntutorial.com/"
+  Teaching:
   Data works:
     - GeoSpatial Analysis: "GeoSpatial analysis repository.md"
     - RNA Seq:
     - Data Visualization R scripts: "data visulization repository.md"
-  Teaching:
   Influencer Blog: "influencer_blog.md"
   My Arts: "https://deanattali.com"
   
