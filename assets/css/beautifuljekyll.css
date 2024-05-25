@@ -223,7 +223,7 @@ img {
 
 /* Create a big space between the _*rd and _*th tab for the avatar */
 .navbar-custom .navbar-nav .nav-item:nth-child(1) {
-  margin-left: 5rem; /* Adjust the space as needed */
+  margin-left: 3rem; /* Adjust the space as needed */
   margin-right: 1rem;
 }
 
@@ -239,6 +239,10 @@ img {
 
 .navbar-custom .navbar-nav .nav-item:nth-child(4) {
   margin-left: 1rem; /* Adjust the space as needed */
+}
+
+.navbar-custom .navbar-nav .nav-item:nth-child(6) {
+  margin-right: 5rem; /* Adjust the space as needed */
 }
 
 .navbar-custom .navbar-nav .nav-link {
