@@ -1,8 +1,24 @@
 ---
 layout: page
-title: Hi, I'm Shican (shrr-tsahn, you got it!) ^.^
-subtitle: Life science researcher/ tireless data analyzer & self-learner/ excellent lecturer/ open to hire
+title: Hi, I'm Shican
+subtitle: Life science researcher| tireless data analyzer & self-learner| excellent lecturer| open to hire
 ---
+
+<style>
+  .main-title {
+    margin-top: 2rem; /* Adjust the margin as needed */
+  }
+  .pronunciation {
+    font-size: 1rem; /* Adjust the font size */
+    display: block;
+    margin-top: 0.5rem; /* Space between main title and pronunciation */
+  }
+</style>
+
+<h1 class="main-title">Hi, I'm Shican</h1>
+<span class="pronunciation">(shrr-tsahn, you got it!) ^.^</span>
+
+<p>Life science researcher| tireless data analyzer & self-learner| excellent lecturer| open to hire</p>
 
 My name is Shican, my friends also call me Claire. Here is what I tell my firends too much about myself:
 I'm a life science researcher with a Ph.D. from Georgetown University. 
