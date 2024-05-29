@@ -3,24 +3,24 @@ layout: page
 title: Hi, I'm Shican
 subtitle: Life science researcher | tireless data analyzer & self-learner | excellent lecturer | open to hire
 cover-img: 
-  - "/assets/img/cover1.jpg" : "attempt size"
+  - "/assets/img/cover1.jpg" : "Attempt size"
   - "/assets/img/cover2.jpg" : "Georgetown & Me"
   - "/assets/img/cover3.jpg" : "Opera Performance Debut"
 ---
 
 <style>
-  .main-title {
-    margin-top: 2rem; /* Adjust the margin as needed */
-  }
   .pronunciation {
     font-size: 1rem; /* Adjust the font size */
     display: block;
-    margin-top: 0.5rem; /* Space between main title and pronunciation */
+    margin-top: -1rem; /* Negative margin to bring it closer to the title */
+    text-align: center; /* Center the pronunciation text */
   }
 </style>
 
-<h1 class="main-title">Hi, I'm Shican</h1>
-<span class="pronunciation">(shrr-tsahn, you got it!) ^.^</span>
+<div style="text-align: center;">
+  <h1 class="main-title">Hi, I'm Shican</h1>
+  <span class="pronunciation">(shrr-tsahn, you got it!) ^.^</span>
+</div>
 
 <p>Life science researcher | tireless data analyzer & self-learner | excellent lecturer | open to hire</p>
 
@@ -35,6 +35,7 @@ I'm a life science researcher with a Ph.D. from Georgetown University.
 - PS: if you see this, that means I just self-learned website-building! 
 
 Please find more about my past research, data processing pipelines, student comments on my teaching, my sample blogs, and sample art pieces in the link below. Or you can visit them by clicking the navigation bar above! What else do you need?
+
 
 
 ### My story
