@@ -10,14 +10,12 @@ cover-img:
 
 <style>
   .pronunciation {
-    font-size: 2rem; /* Adjust the font size */
+    font-size: 1rem; /* Adjust the font size */
     display: inline-block;
     margin-left: 0.5rem; /* Space between title and pronunciation */
     vertical-align: top; /* Align pronunciation with the title */
   }
 </style>
-
-<!-- No need to add the pronunciation line here, as it's part of the title -->
 
 My name is Shican, my friends also call me Claire. Here is what I tell my friends too much about myself:
 
