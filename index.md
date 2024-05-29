@@ -6,7 +6,7 @@ cover-img:
   - "/assets/img/cover1.jpg" : "Attempt size"
   - "/assets/img/cover2.jpg" : "Georgetown & Me"
   - "/assets/img/cover3.jpg" : "Opera Performance Debut"
-head-extra: pronunciation-move.html
+head-extra: pronunciation.html
 ---
 
 <style>
