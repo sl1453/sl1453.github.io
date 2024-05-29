@@ -6,18 +6,7 @@ cover-img:
   - "/assets/img/cover1.jpg" : "Attempt size"
   - "/assets/img/cover2.jpg" : "Georgetown & Me"
   - "/assets/img/cover3.jpg" : "Opera Performance Debut"
-head-extra: pronunciation.html
 ---
-
-<style>
-  .pronunciation {
-    font-size: 1rem; /* Smaller font size for pronunciation */
-    display: block;
-    margin-top: 0.5rem; /* Space between title and pronunciation */
-    text-align: center; /* Center the pronunciation text */
-  }
-</style>
-
 My name is Shican, my friends also call me Claire. Here is what I tell my friends too much about myself:
 
 I'm a life science researcher with a Ph.D. from Georgetown University. 
