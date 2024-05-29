@@ -10,9 +10,6 @@ head-extra: pronunciation-move.html
 ---
 
 <style>
-  .page-title {
-    margin-top: 0; /* Adjust the margin as needed */
-  }
   .pronunciation {
     font-size: 1rem; /* Smaller font size for pronunciation */
     display: block;
