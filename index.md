@@ -17,12 +17,8 @@ cover-img:
   }
 </style>
 
-<div style="text-align: center;">
-  <h1 class="main-title">Hi, I'm Shican</h1>
-  <span class="pronunciation">(shrr-tsahn, you got it!) ^.^</span>
-</div>
-
-<p>Life science researcher | tireless data analyzer & self-learner | excellent lecturer | open to hire</p>
+<!-- This will add the pronunciation line under the title automatically rendered by the theme -->
+<div class="pronunciation">(shrr-tsahn, you got it!) ^.^</div>
 
 My name is Shican, my friends also call me Claire. Here is what I tell my friends too much about myself:
 
@@ -35,8 +31,6 @@ I'm a life science researcher with a Ph.D. from Georgetown University.
 - PS: if you see this, that means I just self-learned website-building! 
 
 Please find more about my past research, data processing pipelines, student comments on my teaching, my sample blogs, and sample art pieces in the link below. Or you can visit them by clicking the navigation bar above! What else do you need?
-
-
 
 ### My story
 
