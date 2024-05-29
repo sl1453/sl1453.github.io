@@ -1,0 +1,11 @@
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var pronunciation = document.getElementById("pronunciation");
+    if (pronunciation) {
+      var titleElement = document.querySelector(".page-title h1");
+      if (titleElement) {
+        titleElement.appendChild(pronunciation);
+      }
+    }
+  });
+</script>
