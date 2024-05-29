@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hi, I'm Shican
+title: Hi, I'm Shican <span class="pronunciation">(shrr-tsahn, you got it!) ^.^</span>
 subtitle: Life science researcher | tireless data analyzer & self-learner | excellent lecturer | open to hire
 cover-img: 
   - "/assets/img/cover1.jpg" : "Attempt size"
@@ -10,15 +10,14 @@ cover-img:
 
 <style>
   .pronunciation {
-    font-size: 1rem; /* Adjust the font size */
-    display: block;
-    margin-top: -1rem; /* Negative margin to bring it closer to the title */
-    text-align: center; /* Center the pronunciation text */
+    font-size: 2rem; /* Adjust the font size */
+    display: inline-block;
+    margin-left: 0.5rem; /* Space between title and pronunciation */
+    vertical-align: top; /* Align pronunciation with the title */
   }
 </style>
 
-<!-- This will add the pronunciation line under the title automatically rendered by the theme -->
-<div class="pronunciation">(shrr-tsahn, you got it!) ^.^</div>
+<!-- No need to add the pronunciation line here, as it's part of the title -->
 
 My name is Shican, my friends also call me Claire. Here is what I tell my friends too much about myself:
 
