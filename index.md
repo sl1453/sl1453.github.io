@@ -9,13 +9,21 @@ cover-img:
 ---
 
 <style>
+  .main-title {
+    margin-top: 1rem; /* Adjust the margin as needed */
+  }
   .pronunciation {
-    font-size: 1rem; /* Adjust the font size */
+    font-size: 1rem; /* Smaller font size for pronunciation */
     display: inline-block;
     margin-left: 0.5rem; /* Space between title and pronunciation */
     vertical-align: top; /* Align pronunciation with the title */
   }
 </style>
+
+<!-- Adjust the title HTML to include the class for main-title -->
+<div class="main-title">
+  Hi, I'm Shican <span class="pronunciation">(shrr-tsahn, you got it!) ^.^</span>
+</div>
 
 My name is Shican, my friends also call me Claire. Here is what I tell my friends too much about myself:
 
@@ -28,6 +36,7 @@ I'm a life science researcher with a Ph.D. from Georgetown University.
 - PS: if you see this, that means I just self-learned website-building! 
 
 Please find more about my past research, data processing pipelines, student comments on my teaching, my sample blogs, and sample art pieces in the link below. Or you can visit them by clicking the navigation bar above! What else do you need?
+
 
 ### My story
 
