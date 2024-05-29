@@ -1,16 +1,15 @@
 ---
 layout: page
 title: Hi, I'm Shican
-before-content: pronunciation.html
 subtitle: Life science researcher | tireless data analyzer & self-learner | excellent lecturer | open to hire
 cover-img: 
   - "/assets/img/cover1.jpg" : "Attempt size"
   - "/assets/img/cover2.jpg" : "Georgetown & Me"
   - "/assets/img/cover3.jpg" : "Opera Performance Debut"
+head-extra: pronunciation-move.html
 ---
 
 <style>
-  /* Adjusting the space between the navigation bar and the title */
   .page-title {
     margin-top: 0; /* Adjust the margin as needed */
   }
