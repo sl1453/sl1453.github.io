@@ -2,26 +2,13 @@
 layout: page
 title: >-
   Hi, I'm Shican
-  <span class="pronunciation">(shrr-tsahn, you got it!) ^.^</span>
+  <span class="pronunciation" style="font-size: 1rem !important; display: inline-block; margin-left: 0.5rem; vertical-align: top;">(shrr-tsahn, you got it!) ^.^</span>
 subtitle: Life science researcher | tireless data analyzer & self-learner | excellent lecturer | open to hire
 cover-img: 
   - "/assets/img/cover1.jpg" : "Attempt size"
   - "/assets/img/cover2.jpg" : "Georgetown & Me"
   - "/assets/img/cover3.jpg" : "Opera Performance Debut"
 ---
-
-<style>
-  /* Adjusting the space between the navigation bar and the title */
-  .page-title {
-    margin-top: 0; /* Adjust the margin as needed */
-  }
-  .page-title .pronunciation {
-    font-size: 1rem !important; /* Smaller font size for pronunciation with !important to override default */
-    display: inline-block;
-    margin-left: 0.5rem; /* Space between title and pronunciation */
-    vertical-align: top; /* Align pronunciation with the title */
-  }
-</style>
 
 My name is Shican, my friends also call me Claire. Here is what I tell my friends too much about myself:
 
