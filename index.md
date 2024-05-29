@@ -3,7 +3,7 @@ layout: page
 title: >-
   Hi, I'm Shican
   <span class="pronunciation" style="font-size: 1rem !important; display: inline-block; margin-left: 0.5rem; vertical-align: top;">(shrr-tsahn, you got it!) ^.^</span>
-subtitle: Life science researcher | tireless data analyzer & self-learner | excellent lecturer | open to hire
+subtitle: Multidisplinary Life science researcher | tireless data analyzer | excellent lecturer | sel-propelled learner
 cover-img: 
   - "/assets/img/cover1.jpg" : "Attempt size"
   - "/assets/img/cover2.jpg" : "Georgetown & Me"
