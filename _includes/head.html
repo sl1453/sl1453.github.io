@@ -172,4 +172,17 @@
     {% endfor %}
   {% endif %}
 
+
+<!-- Add custom parameter for title-minor -->
+  {% if page.title-minor %}
+  <style>
+    .title-minor {
+      font-size: 1rem; /* Adjust the font size */
+      display: block;
+      margin-top: 0.5rem; /* Space between title and minor title */
+      text-align: center; /* Center the minor title text */
+    }
+  </style>
+  {% endif %}
+
 </head>
