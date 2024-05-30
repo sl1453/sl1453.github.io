@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Hi, I'm Shican"
-title-minor: "(it's 🗣️ 'shrr-tsahn', you got it! ^.^)"
+title-minor: "(it's 🗣️shrr-tsahn, you got it! ^.^)"
 subtitle: "Life science researcher | tireless data analyzer & self-learner | excellent lecturer | open to hire"
 cover-img: 
   - "/assets/img/cover1.jpg" : "Attempt size"
@@ -14,7 +14,6 @@ I'm Shican, but friends call me Claire. I recently graduated with a Ph.D. in bio
 
 Ever wondered what it's like to blend physics and biology in the lab, teach with passion, or transform complex data into stunning visuals? Or maybe you're curious about my artsy side or my influencer blog that fuses science with lifestyle tips?
 
-Well, don't just take my word for it. Head to the [**About** page](about) to dive in. I promise I won't overshare like I do with my friends.
+Well, don't just take my word for it. Head to the [**About**](about) page to dive in. I promise I won't overshare like I do with my friends.
 
 Ready to explore? Let's go!   
-(Don't miss the links below for my scholar profile and social media.)
