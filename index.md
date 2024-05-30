@@ -1,19 +1,13 @@
 ---
 layout: page
-title: Hi, I'm Shican
+title: Hi, I'm Shican ^.^
 subtitle: Life science researcher | tireless data analyzer & self-learner | excellent lecturer | open to hire
 cover-img: 
   - "/assets/img/cover1.jpg" : "Attempt size"
   - "/assets/img/cover2.jpg" : "Georgetown & Me"
   - "/assets/img/cover3.jpg" : "Opera Performance Debut"
-title-minor: "(shrr-tsahn, you got it!) ^.^"
+title-minor: "(shrr-tsahn, you got it!)"
 ---
-
-<style>
-  .page-title {
-    margin-top: 0; /* Adjust the margin as needed */
-  }
-</style>
 
 <!-- Title and subtitle rendering -->
 <h1 class="page-title">{{ page.title }}</h1>
