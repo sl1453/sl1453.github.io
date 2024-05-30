@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hi, I'm Shican
-title-minor: "(shrr-tsahn, you got it!) ^.^"
+title: Hi, I'm Shican ^.^
+title-minor: "(shrr-tsahn, you got it!)
 subtitle: Life science researcher | tireless data analyzer & self-learner | excellent lecturer | open to hire
 cover-img: 
   - "/assets/img/cover1.jpg" : "Attempt size"
@@ -9,22 +9,9 @@ cover-img:
   - "/assets/img/cover3.jpg" : "Opera Performance Debut"
 ---
 
-<style>
-  .page-title {
-    margin-top: 3rem; /* Adjust the margin as needed */
-    text-align: center; /* Center the main title text */
-  }
-  .title-minor {
-    font-size: 1rem; /* Smaller font size for the title-minor */
-    display: block;
-    margin-top: 0.5rem; /* Space between title and minor title */
-    text-align: center; /* Center the minor title text */
-  }
-</style>
+My name is Shican, friends also call me Claire. This is where I tell my friends too much about myself:
 
-My name is Shican, my friends also call me Claire. Here is what I tell my friends too much about myself:
-
-I'm a life science researcher with a Ph.D. from Georgetown University. 
+I'm a researcher with a Ph.D. in Biology from Georgetown University. 
 
 - I have 10+ years of experience in biological research and am particularly enthusiastic about inter-disciplinary research!
 - I excel at teaching undergraduate lab lectures in my Ph.D. program.
