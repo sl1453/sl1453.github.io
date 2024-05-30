@@ -1,15 +1,27 @@
 ---
 layout: page
-title: Hi, I'm Shican ^.^
+title: Hi, I'm Shican
 subtitle: Life science researcher | tireless data analyzer & self-learner | excellent lecturer | open to hire
 cover-img: 
   - "/assets/img/cover1.jpg" : "Attempt size"
   - "/assets/img/cover2.jpg" : "Georgetown & Me"
   - "/assets/img/cover3.jpg" : "Opera Performance Debut"
-title-minor: "(shrr-tsahn, you got it!)"
+title-minor: "(shrr-tsahn, you got it!) ^.^"
 ---
 
-<!-- Title and subtitle rendering -->
+<style>
+  .page-title {
+    margin-top: 3rem; /* Adjust the margin as needed */
+    text-align: center; /* Center the main title text */
+  }
+  .title-minor {
+    font-size: 1rem; /* Smaller font size for the title-minor */
+    display: block;
+    margin-top: 0.5rem; /* Space between title and minor title */
+    text-align: center; /* Center the minor title text */
+  }
+</style>
+
 <h1 class="page-title">{{ page.title }}</h1>
 {% if page.title-minor %}
   <span class="title-minor">{{ page.title-minor }}</span>
