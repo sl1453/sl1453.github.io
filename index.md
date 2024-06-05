@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Hi, I'm Shican"
-title-minor: "(pronounced: 📣shrr-tsahn, you got it! ^.^)"
+title-minor: "(like: 📣shrr-tsahn, you got it! ^.^)"
 subtitle: "Life science researcher | tireless data analyzer & self-learner | excellent lecturer | open to hire"
 cover-img: 
   - "/assets/img/cover1.jpg" : "Attempt size"
