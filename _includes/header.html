@@ -7,7 +7,7 @@
     {% for imginfo in bigimg %}
     {% if imginfo[0] %}
       data-img-src-{{ imgnum }}="{{ imginfo[0] | absolute_url }}"
-      data-img-desc-{{ imgnum }}="{{ imginfo[1] }}"
+      data-img-desc-{{ imginfo[1] }}"
     {% else %}
       data-img-src-{{ imgnum }}="{{ imginfo | absolute_url }}"
     {% endif %}
@@ -23,7 +23,7 @@
     <div class="row">
       <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
         <div class="{{ include.type }}-heading">
-          <h1>{% if page.title %}{{ page.title | strip_html }}{% else %}<br/>{% endif %}</h1>
+          <h1 class="page-title">{% if page.title %}{{ page.title | strip_html }}{% else %}<br/>{% endif %}</h1>
           {% if page.title-minor %}
             <span class="title-minor">{{ page.title-minor }}</span>
           {% endif %}
@@ -35,11 +35,10 @@
               <h2 class="{{ include.type }}-subheading">{{ page.subtitle | strip_html }}</h2>
             {% endif %}
           {% endif %}
-          
-          {% if include.type == "post" %} 
+          {% if include.type == "post" %}
             {% if page.author %}
               By <strong>{{ page.author | strip_html }}</strong><br>
-            {% endif%}
+            {% endif %}
             <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
             {% if page.last-updated %}
               <span class="post-meta">
@@ -64,7 +63,6 @@
     {% include {{ file }} %}
   {% endfor %}
 {% endif %}
-
 </header>
 
 <style>
@@ -79,10 +77,12 @@
     display: block;
     text-align: center; /* Center the minor title text */
   }
-
   /* Add margin to the page title on pages without a cover image */
   .header-section.no-img .page-title {
     margin-top: 100px; /* Adjust this value as needed */
   }
-  
+  .header-section.no-img .page-subtitle {
+    margin-top: 0.25rem; /* Adjust this value as needed */
+  }
 </style>
+
