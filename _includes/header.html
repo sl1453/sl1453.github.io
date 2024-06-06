@@ -7,7 +7,7 @@
     {% for imginfo in bigimg %}
     {% if imginfo[0] %}
       data-img-src-{{ imgnum }}="{{ imginfo[0] | absolute_url }}"
-      data-img-desc-{{ imginfo[1] }}"
+      data-img-desc-{{ imgnum }}="{{ imginfo[1] }}"
     {% else %}
       data-img-src-{{ imgnum }}="{{ imginfo | absolute_url }}"
     {% endif %}
@@ -30,11 +30,12 @@
           {% if page.subtitle %}
             {% if include.type == "page" %}
               <hr class="small" style="margin-top: 0.25rem; margin-bottom: 0;"> <!-- Adjust this margin to reduce space -->
-              <span class="{{ include.type }}-subheading" style="margin-top: 1rem;">{{ page.subtitle | strip_html }}</span>
+              <span class="page-subtitle {{ include.type }}-subheading" style="margin-top: 1rem;">{{ page.subtitle | strip_html }}</span> <!-- Changed line -->
             {% else %}
-              <h2 class="{{ include.type }}-subheading">{{ page.subtitle | strip_html }}</h2>
+              <h2 class="page-subtitle {{ include.type }}-subheading">{{ page.subtitle | strip_html }}</h2> <!-- Changed line -->
             {% endif %}
           {% endif %}
+          
           {% if include.type == "post" %}
             {% if page.author %}
               By <strong>{{ page.author | strip_html }}</strong><br>
@@ -77,13 +78,14 @@
     display: block;
     text-align: center; /* Center the minor title text */
   }
+
   /* Add margin to the page title on pages without a cover image */
   .header-section.no-img .page-title {
-    margin-top: 75px; /* Adjust this value as needed */
+    margin-top: 67px; /* Adjust this value as needed */
   }
   .header-section.no-img .page-subtitle {
-    margin-top: 0.25rem; /* Adjust this value as needed */
-    margin-bottom: 50rem;
-  }
+    margin-bottom: 50rem; /* Increase space below subtitle for no-img pages */
+  } <!-- Added rule -->
 </style>
+
 
