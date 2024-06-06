@@ -70,8 +70,20 @@
 <style>
   .intro-header {
     margin-bottom: 0; /* Reduce space at the bottom of the header */
+    padding-top: 10px; /* Reduce space above the title */
+    padding-bottom: 10px; /* Reduce space below the subtitle */
+  }
+  .intro-header.big-img {
+    max-height: 400px; /* Adjust this value to make the cover image shorter */
+    overflow: hidden;
   }
   .container-md, .container-fluid {
-    margin-top: -20px; /* Adjust this value to reduce space */
+    margin-top: -30px; /* Adjust this value to reduce space */
+  }
+  .title-minor {
+    font-size: 1.25rem; /* Adjust the font size */
+    display: block;
+    margin-top: 0.5rem; /* Space between title and minor title */
+    text-align: center; /* Center the minor title text */
   }
 </style>
