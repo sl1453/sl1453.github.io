@@ -8,7 +8,7 @@ cover-img:
   - "/assets/img/cover2.jpg" : "Georgetown & Me"
   - "/assets/img/cover3.jpg" : "Opera Performance Debut"
 ---
-Welcome to my little corner, Asteroid B-678! 🪐
+Welcome to my little Asteroid B-678! 🪐
 
 I'm Shican, friends also call me Claire. I recently graduated with a Ph.D.🎓 in biology from Georgetown University. Before you click away thinking it's all serious and science-y here, let me tell you why you should stick around!
 
