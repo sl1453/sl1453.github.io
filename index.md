@@ -16,4 +16,4 @@ Ever wondered what it's like to blend physics ⚛️ and biology 🔬 in the lab
 
 Well, don't just take my word for it. Head to the [**About**](about) page to dive in. I promise I won't overshare like I do with my friends.
 
-PS: If you see this, that means I just learnt website making. Ready? Let's go!   
+P.S.: If you see this, it means I taught myself website building. Ready? Let's go!
