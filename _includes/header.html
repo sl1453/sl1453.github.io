@@ -16,7 +16,7 @@
   ></div>
 {% endif %}
 
-<header class="header-section {% if page.cover-img %}has-img{% endif %}">
+<header class="header-section {% if page.cover-img %}has-img{% else %}no-img{% endif %}">
 <div class="intro-header {% if page.cover-img %} big-img {% endif %}">
   {% if page.cover-img or page.title %}
   <div class="container-md">
@@ -79,7 +79,7 @@
     display: block;
     text-align: center; /* Center the minor title text */
   }
-  .header-section:not(.has-img) .page-title {
+  .header-section.no-img .page-title {
     margin-top: 100px; /* Adjust this value as needed */
   }
 </style>
