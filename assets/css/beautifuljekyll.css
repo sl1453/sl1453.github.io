@@ -460,7 +460,7 @@ img {
 
 @media (max-width: 1199px) {
   .navbar-custom .avatar-container {
-    bottom: -4.125rem; /* Adjust this value as needed */
+    bottom: -3rem; /* Adjust this value as needed */
   }
 }
 
