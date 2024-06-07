@@ -365,29 +365,30 @@ img {
 
   .navbar-custom .navbar-nav {
     padding: 0.5rem 0;
-    flex-direction: column; /* Ensure vertical alignment */
-    align-items: flex-start; /* Align items to the start of the container */
+    flex-direction: column !important; /* Ensure vertical alignment */
+    align-items: flex-start !important; /* Align items to the start of the container */
   }
 
   .navbar-custom .navbar-nav .nav-item {
-    margin: 0; /* Reset margins for vertical alignment */
-    width: 100%; /* Ensure each nav item takes full width */
-    text-align: left; /* Align text to the left */
+    margin: 0 !important; /* Reset margins for vertical alignment */
+    width: 100% !important; /* Ensure each nav item takes full width */
+    text-align: left !important; /* Align text to the left */
   }
 
   .navbar-custom .navbar-nav .nav-link {
-    padding: 0.675rem 1rem; /* Adjust padding for better spacing */
+    padding: 0.675rem 1rem !important; /* Adjust padding for better spacing */
   }
 
   .navbar-custom .nav-item.dropdown.show {
-    background: rgba(0, 0, 0, 0.2);
+    background: rgba(0, 0, 0, 0.2) !important;
   }
 
   .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
-    padding-left: 2rem;
-    white-space: nowrap; /* Ensure words don't break */
+    padding-left: 2rem !important;
+    white-space: nowrap !important; /* Ensure words don't break */
   }
 }
+
 
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
