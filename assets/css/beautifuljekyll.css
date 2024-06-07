@@ -365,10 +365,18 @@ img {
 
   .navbar-custom .navbar-nav {
     padding: 0.5rem 0;
+    flex-direction: column; /* Ensure vertical alignment */
+    align-items: flex-start; /* Align items to the start of the container */
+  }
+
+  .navbar-custom .navbar-nav .nav-item {
+    margin: 0; /* Reset margins for vertical alignment */
+    width: 100%; /* Ensure each nav item takes full width */
+    text-align: left; /* Align text to the left */
   }
 
   .navbar-custom .navbar-nav .nav-link {
-    padding: 0.675rem 0 0.675rem 1rem;
+    padding: 0.675rem 1rem; /* Adjust padding for better spacing */
   }
 
   .navbar-custom .nav-item.dropdown.show {
