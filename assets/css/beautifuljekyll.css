@@ -846,11 +846,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   }
 }
 
-@media (max-width: 1199px) {
-  .title-minor {
-    font-size: 1.25rem; /* Adjust font size to keep it in a single line on smaller screens */
-  }
-}
+
 /* --- Pagination --- */
 
 .pagination {
