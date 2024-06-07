@@ -463,7 +463,7 @@ img {
     bottom: -3.5rem; /* Adjust this value as needed */
   }
   .title-minor {
-    font-size: 1.25rem; /* Adjust font size to keep it in a single line on smaller screens */
+    font-size: 0.5rem; /* Adjust font size to keep it in a single line on smaller screens */
   }
   .navbar-custom .navbar-brand {
     font-size: 1rem; /* Adjust font size for the logo to avoid being hidden by the avatar */
