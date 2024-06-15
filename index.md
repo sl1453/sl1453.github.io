@@ -4,9 +4,11 @@ title: "Hi, I'm Shican"
 title-minor: "(like: 📣shrr-tsahn, you got it! ^.^)"
 subtitle: "Life science researcher | tireless data analyzer & self-learner | excellent teacher | open to hire"
 cover-img: 
-  - "/assets/img/cover1.jpg" : "Attempt size"
-  - "/assets/img/cover2.jpg" : "Georgetown & Me"
-  - "/assets/img/cover3.jpg" : "Opera Performance Debut"
+  - "/assets/img/cover1.jpg" : "When I'm Not in the Lab."
+  - "/assets/img/cover2.jpg" : "Cool Lab: Handling Cells"
+  - "/assets/img/cover3.jpg" : "COSMOS Scholar Award"
+  - "/assets/img/cover4.jpg" : "Opera Debut, DC."
+  - "/assets/img/cover5.jpg" : "Graduation, Georgetown."
 ---
 Welcome to my little Asteroid B-678! 🪐
 
