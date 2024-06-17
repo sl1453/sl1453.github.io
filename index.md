@@ -15,8 +15,8 @@ cover-img:
   - "/assets/img/cover8.jpg" : "Graduation Day: With My Best Frind and Colleague."
   - "/assets/img/cover9.jpg" : "Graduation, Georgetown."
   - "/assets/img/cover10.jpg" : "Graduation Day: With My Best Chess Buddy at Georgetown."
-  - "/assets/img/cover11.jpg" : 
-  - "/assets/img/cover12.jpg" : 
+  - "/assets/img/cover11.jpg" : ""
+  - "/assets/img/cover12.jpg" : ""
   - "/assets/img/cover13.jpg" : "Atlantic Ocean."
   - "/assets/img/cover14.jpg" : "Graduation Day: Father and Daughter in Front of Georgetown."
   - "/assets/img/cover15.jpg" : "Graduation Day, Hooding Ceremony."
