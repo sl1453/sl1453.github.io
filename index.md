@@ -2,7 +2,7 @@
 layout: page
 title: "Hi, I'm Shican"
 title-minor: "(like: 📣shrr-tsahn, you got it! ^.^)"
-subtitle: "Experienced Life Science Researcher | Tireless Data and Bioinformatic Analyst | Excellent Lecturer | Proficient Self-Learner | Open to Hire"
+subtitle: "Experienced Research Scientist | Tireless Data and Bioinformatic Analyst | Excellent Lecturer | Proficient Self-Learner | Open to Hire"
 cover-img: 
   - "/assets/img/cover1.jpg" : "When I'm Not in the Lab: Amateur Painting."
   - "/assets/img/cover2.jpg" : "My COOL Lab Works: Handling Cells."
