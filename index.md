@@ -4,18 +4,42 @@ title: "Hi, I'm Shican"
 title-minor: "(like: 📣shrr-tsahn, you got it! ^.^)"
 subtitle: "Life science researcher | tireless data analyzer & self-learner | excellent teacher | open to hire"
 cover-img: 
-  - "/assets/img/cover1.jpg" : "When I'm Not in the Lab."
-  - "/assets/img/cover2.jpg" : "Cool Lab: Handling Cells"
-  - "/assets/img/cover3.jpg" : "COSMOS Scholar Award"
-  - "/assets/img/cover4.jpg" : "Opera Debut, DC."
-  - "/assets/img/cover5.jpg" : "Graduation, Georgetown."
+  - "/assets/img/cover1.jpg" : "When I'm Not in the Lab: Amateur Painting."
+  - "/assets/img/cover2.jpg" : "Cool Lab: Handling Cells."
+  - "/assets/img/cover2_1.jpg" : "Cool Lab: Handling Cells."
+  - "/assets/img/cover3.jpg" : "COSMOS Scholar Award."
+  - "/assets/img/cover4.jpg" : "When I'm Not in the Lab: Opera Debut, DC."
+  - "/assets/img/cover5.jpg" : "Graduated! Georgetown."
+  - "/assets/img/cover6.jpg" : "Opera Debut, DC."
+  - "/assets/img/cover7.jpg" : "After Defense: My Multidisciplinary Nurturing Team at Georgetown."
+  - "/assets/img/cover8.jpg" : "Graduation Day: With My Best Frind and Colleague."
+  - "/assets/img/cover9.jpg" : "Graduation, Georgetown."
+  - "/assets/img/cover10.jpg" : "Graduation Day: With My Best Chess Buddy at Georgetown."
+  - "/assets/img/cover11.jpg" : 
+  - "/assets/img/cover12.jpg" : 
+  - "/assets/img/cover13.jpg" : "Atlantic Ocean."
+  - "/assets/img/cover14.jpg" : "Graduation Day: Father and Daughter in Front of Georgetown."
+  - "/assets/img/cover15.jpg" : "Graduation Day, Hooding Ceremony."
+  - "/assets/img/cover16.jpg" : "When I'm Not in the Lab: Amateur Painting."
+  - "/assets/img/cover17.jpg" : "When I'm Not in the Lab: Amateur Painting."
+  - "/assets/img/cover18.jpg" : "When I'm Not in the Lab: Amateur Painting."
+  - "/assets/img/cover19.jpg" : "When I'm Not in the Lab: Opera Debut, DC."
+  - "/assets/img/cover20.jpg" : "Atlantic Ocean."
+  - "/assets/img/cover21.jpg" : "Atlantic Ocean."
+  - "/assets/img/cover22.jpg" : "When I'm Not in the Lab: Opera Debut, DC."
+  - "/assets/img/cover23.jpg" : ""
+  - "/assets/img/cover26.jpg" : "Beautiful Georgetown."
+  - "/assets/img/cover27.jpg" : "Beautiful Georgetown."
+  - "/assets/img/cover28.jpg" : "At Brandeis: When I'm Not in the Lab."
+  - "/assets/img/cover29.jpg" : "On Stage, Hainan."
+  - "/assets/img/cover30.jpg" : "At Brandeis: When I'm Not in the Lab"
 ---
 Welcome to my little Asteroid B-678! 🪐
 
-I'm Shican, friends also call me Claire. I recently graduated with a Ph.D.🎓 in biology from Georgetown University. Before you click away thinking it's all serious and science-y here, let me tell you why you should stick around!
+I'm Shican, my friends also call me Claire. I graduated with a Ph.D. 🎓 in biology from Georgetown University. Before you click away thinking it's all serious and science-y here, here’s why you might want to stick around a little longer!
 
 Ever wondered what it's like to blend physics ⚛️ and biology 🔬 in the lab, teach with passion🦉, or transform experimental data into stunning visuals🌌 Or maybe you're curious about my artsy side👩‍🎨 or my influencer blog that fuses science with lifestyle tips🏄🏼‍♂️?
 
 Well, don't just take my word for it. Head to the [**About**](about) page to dive in. I promise I won't overshare like I do with my friends.
 
-P.S.: If you see this, it means I taught myself website building. Ready? Let's go!
+P.S.: If you see this, it means I just taught myself website building. I'm including my scripts here for anyone interested!
