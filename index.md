@@ -36,10 +36,10 @@ cover-img:
 ---
 Welcome to my little Asteroid B-678! 🪐
 
-I'm Shican, my friends also call me Claire. I graduated with a Ph.D. 🎓 in biology from Georgetown University. Before you click away thinking it's all serious and science-y here, here’s why you might want to stick around a little longer!
+I'm Shican, but friends also call me Claire. I graduated with a Ph.D. 🎓 in biology from Georgetown University. Before you click away thinking it's all serious and science-y, here’s why you might want to stick around a little longer!
 
 Ever wondered what it's like to blend physics ⚛️ and biology 🔬 in the lab, teach with passion🦉, or transform experimental data into stunning visuals🌌 Or maybe you're curious about my artsy side👩‍🎨 or my influencer blog that fuses science with lifestyle tips🏄🏼‍♂️?
 
 Well, don't just take my word for it. Head to the [**About**](about) page to dive in. I promise I won't overshare like I do with my friends.
 
-P.S.: If you see this, it means I just taught myself website building. I'm including my scripts here for anyone interested!
+P.S.: If you see this, it means I successfully taught myself website building. I'm including my scripts here for anyone interested!
