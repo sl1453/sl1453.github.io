@@ -1,19 +1,21 @@
 ---
 layout: page
 title: About me
-subtitle: Great, you reached here!
+subtitle: “Hey there! Great to see you!
 ---
-My name is Shican, friends also call me Claire. This is where I tell my friends too much about myself:
+Hi! I’m Shican, a self-proclaimed science nerd with a passion for integrating physics and bioinformatics into cell biology. When I’m not busy cracking the mysteries of cells under a microscope, you can find me teaching, painting, or blogging. Here's more about my adventures in science and beyond!
 
-I'm a researcher with a Ph.D. in Biology from Georgetown University. 
+💼 With 10 years of experience in cell culture-based research, I’ve also honed my skills in bioinformatics, microscopy, geospatial point pattern analysis, and rheological analysis. My past projects span biophysics and chemical biology. Curious about my research and data processing pipelines? [Check them out here](......).
 
-- I have 10+ years of experience in biological research and am particularly enthusiastic about inter-disciplinary research!
-- I excel at teaching undergraduate lab lectures in my Ph.D. program.
-- My favorite work break is to create art projects, since I don't have many travel vacation time being a Ph.D. student.
-- I kept a science outreach blog and was selected as a VIP KOL on a lifestyle platform targeting global Chinese expats.
-- PS: if you see this, that means I just self-learned website-building! 
+🎓 I earned my Ph.D. in Biology from Georgetown University under the guidance of the amazing [Heidi Elmendorf](https://gufaculty360.georgetown.edu/s/contact/00336000014RdOCAA0/heidi-elmendorf). Before that, I conducted research at Brandeis University in the incredible [Hedstrom lab](https://sites.google.com/brandeis.edu/hedstromlab/). I also conducted organic synthesis for my undergraduate honors thesis with the nicest [Professor Cirillo](https://www.newhaven.edu/faculty-staff-profiles/pier-cirillo.php).
 
-Please find more about my past research, data processing pipelines, student comments on my teaching, my sample blogs, and sample art pieces in the link below. Or you can visit them by clicking the navigation bar above! What else do you need?
+👩🏻‍🏫 I excel at teaching! I’ve taught 4 biochemistry lab lectures and a genetics lab lecture during my Ph.D. program and even managed all biochemistry lab sessions for a semester. [See what my students thought about my classes here](...).
+
+🌎 I run a science outreach blog and have been selected as a Key Opinion Leader on a lifestyle platform for global Chinese expats.[Check out some of my top articles on The Science of Acquiring Mental Wellness, The Science in Vaccines, and The Science in Perfumery here](......).
+
+❤️ When I’m not in the lab, I unwind with art therapy. (Who still doesn't know that Ph.D. students don’t get much vacation time?) [Explore some of my hobby paintings and opera performance pictures here](........).
+
+Feel free to explore whichever part interests you by clicking the navigation bar above! What else do you need? Reach out 👇
 
 ### My story
 
