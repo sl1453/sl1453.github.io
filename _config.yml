@@ -31,7 +31,7 @@ navbar-links:
     - RNA Seq:
     - Data Visualization R scripts: "data visulization repository.md"
   Teaching:
-  Influencer Blog: "_posts"
+  Influencer Blog: "/blog"
   My Arts: "https://deanattali.com"
   
   
