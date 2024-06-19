@@ -5,7 +5,6 @@ subtitle: “Hey there!
 ---
 I’m Shican, a self-proclaimed science nerd with a passion for integrating physics and bioinformatics into cell biology. When I’m not busy cracking the mysteries of cells under a microscope, you can find me teaching, painting, or blogging. Here's more about my adventures in science and beyond!
 
-## Professional Background
 
 ### 💼 Research Experience
 - **10 years** of experience in **cell culture**-based research.
@@ -18,18 +17,10 @@ I’m Shican, a self-proclaimed science nerd with a passion for integrating phys
 - Conducted research at Brandeis in the incredible [Hedstrom lab](https://sites.google.com/brandeis.edu/hedstromlab/).
 - Conducted organic synthesis for my undergraduate honors thesis with the nicest [Professor Cirillo](https://www.newhaven.edu/faculty-staff-profiles/pier-cirillo.php).
 
----
-
-## Teaching Experience
-
 ### 👩🏻‍🏫 Teaching Highlights
 - Taught **4 biochemistry lab lectures** and a **genetics lab lecture** during my Ph.D. program.
 - Managed all biochemistry lab class sessions offered by the department for a semester (2 sessions with around 60 students).
 - [See what my students thought about my classes here](/teaching).
-
----
-
-## Outreach and Hobbies
 
 ### 🌎 Science Outreach
 - Run a science outreach blog.
