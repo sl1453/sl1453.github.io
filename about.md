@@ -8,7 +8,7 @@ I’m Shican, a self-proclaimed science nerd with a passion for integrating phys
 ## Professional Background
 
 ### 💼 Research Experience
-- **10 years** of experience in cell culture-based research.
+- **10 years** of experience in **cell culture**-based research.
 - Skilled in **bioinformatics, microscopy, geospatial point pattern analysis,** and **fluid rheological analysis**.
 - Past projects in **biophysics** at Georgetown and **biochemistry** at Brandeis.
 - Curious about my research and data processing pipelines? [Check them out here](/research).
