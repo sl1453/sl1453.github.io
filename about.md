@@ -13,8 +13,8 @@ I’m Shican, a self-proclaimed science nerd with a passion for integrating phys
 - Curious about my research and data processing pipelines? [Check them out here](/research).
 
 ### 🎓 Education
-- **Ph.D. in Biology** from Georgetown University under the guidance of the amazing [Professor Heidi Elmendorf](https://gufaculty360.georgetown.edu/s/contact/00336000014RdOCAA0/heidi-elmendorf).
-- Conducted research at Brandeis in the incredible [Hedstrom lab](https://sites.google.com/brandeis.edu/hedstromlab/).
+- **Ph.D. in Biology** from **Georgetown** University under the guidance of the [amazing Heidi Elmendorf](https://gufaculty360.georgetown.edu/s/contact/00336000014RdOCAA0/heidi-elmendorf).
+- **M.S.** research at **Brandeis** University in the incredible [Hedstrom lab](https://sites.google.com/brandeis.edu/hedstromlab/).
 - Conducted organic synthesis for my undergraduate honors thesis with the nicest [Professor Cirillo](https://www.newhaven.edu/faculty-staff-profiles/pier-cirillo.php).
 
 ### 👩🏻‍🏫 Teaching Highlights
@@ -25,8 +25,8 @@ I’m Shican, a self-proclaimed science nerd with a passion for integrating phys
 ### 🌎 Science Outreach
 - Run a science outreach blog.
 - Selected as a **Key Opinion Leader** on a lifestyle platform for global Chinese expats.
-- [Check out some of my top articles on The Science of Acquiring Mental Wellness, The Science in Vaccines, and The Science in Perfumery here](/blog).
-
+- [Check out some of my top articles](/blog) on The Science of Acquiring Mental Wellness, The Science in Vaccines, and The Science in Perfumery.
+  
 ### ❤️ Hobbies
 - When I’m not in the lab, I unwind with **art therapy**. (Who still doesn't know that Ph.D. students don’t get much vacation time?)
 - [Explore some of my hobby paintings and opera performance pictures here](/art).
