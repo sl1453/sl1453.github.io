@@ -539,6 +539,10 @@ footer .footer-custom-content {
 
 /* --- Post preview (feed) --- */
 
+.intro-text {
+  margin-top: 1.5rem; /* Adjust the value as needed for more space */
+}
+
 .posts-list {
     margin: 0;
   display: flex;
