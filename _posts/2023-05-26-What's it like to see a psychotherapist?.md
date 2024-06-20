@@ -156,16 +156,16 @@ For example: Aromatherapy, skincare, doing a facial mask, cooking a simple meal,
 
 * Jump out of the loop: When you feel trapped in sadness 💔, immediately do something else, go for a walk. Physical activity can pull your brain 🧠 out of the thought loop.
   
-  >![walk in fresh air after rain][umbrella 1]
-  >![Walk in fresh air after rain][umbrella 2]
+  >![walk in fresh air after rain][umbrella1]
+  >![Walk in fresh air after rain][umbrella2]
   >Walk in the Refreshed Air @ Dumbarton Oaks.(Original Photos).
 
 * When self-care helps you get moving a bit, exercise a little.
 
 The endorphins from exercise that make you feel refreshed can't be increased by any medication. Instead, exercising is a great way to increase your endorphin level!
 
-  >![A track runway][runway2]
-  >(Original Photo)
+    >![A track runway][runway2]
+    >(Original Photo)
 
 ---
 ##### Alright, it's easier said than done. Only those who have been through it know. That's why this article doesn't preach, it only offers practical tips!
@@ -180,10 +180,11 @@ References:
 
 [dawn]:/assets/img/post1/BeautifulDawn.jpg
 [roses]:/assets/img/post1/roses.jpg
+[runway]:/assets/img/post1/runway.jpg
 [tree]:/assets/img/post1/tree.jpg
 [diagram]:assets/img/post1/diagram.jpg
 [meds]:assets/img/post1/meds.jpg
 [chocolates]:assets/img/post1/chocolates.jpg
-[umbrella 1]:assets/img/post1/umbrella1.jpg
-[umbrella 2]:assets/img/post1/umbrella2.jpg
+[umbrella1]:assets/img/post1/umbrella1.jpg
+[umbrella2]:assets/img/post1/umbrella2.jpg
 [runway2]:assets/img/post1/runway2.jpg
