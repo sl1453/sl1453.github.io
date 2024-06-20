@@ -8,15 +8,14 @@ share-img: /assets/img/path.jpg
 tags: [Good Bye Depression, Mental Health, International Students in the U.S.]
 author: Shican (Claire) Li/LaPetitePrincessa
 ---
-___
 
 What happens when you see a psychotherapist?
 
 This article will be particularly suitable for students who need help but have been hesitant. I've also summarized the current common classifications of antidepressants and anti-anxiety medications, explaining the mechanisms of how they can assist you.
 
-Additionally, summer is a good time to prepare fighting for the seasonal affective disorder (SAD) which is more common in autumn and winter. It's a good time to stock up on mental and physical resources and build a psychological fortress. The second half of this article will share some small strategies and items to dispel depressive emotions.
->![beautiful dawn][dawn]
->Get Prepared to Greet the Beautiful Dawn (Original photo)
+Additionally, summer is a good time to prepare for fighting the seasonal affective disorder (SAD) which is more common in autumn and winter. It's a good time to stock up on mental and physical resources and build a psychological fortress. The second half of this article will share some small strategies and items to dispel depressive emotions.
+
+> ![Get Prepared to Greet the Beautiful Dawn (Original photo)][dawn]
 
 **_(This article does not represent any medical advice, but is a summary of literature and individual experiences) (All medications require a prescription, please consult your doctor and do not self-medicate) (Differences in Individual conditions are significant, this article is not comprehensive)_**
 
@@ -25,14 +24,10 @@ Depressive feelings can affect our quality of life, physical health, and may dev
 Healing Formula: Therapy + Medication + **Self-care**
 
 The last one is crucial!
->![roses under the sun][roses]
->Self-care: Get More Sunlight (Original Photo)
->
->![track runway][runway]
->Self-care: Get Some Excercise (Original Photo)
 
-___
+> ![Self-care: Get More Sunlight (Original Photo)][roses]
 
+> ![Self-care: Get Some Exercise (Original Photo)][runway]
 
 ### Seeking Doctor's Help:
 
@@ -52,7 +47,7 @@ There are two types of mental health professionals: Psychologists and Psychiatri
 
 At this stage, you can express whether you only want psychological counseling, or both therapist and psychiatrist.
 
-#### Step 3: 
+#### Step 3:
 
 Chatting with the Therapist
 
@@ -60,48 +55,37 @@ You will establish mutual trust through conversation. After that, set a regular 
 
 Therapists are usually Ph.D. or Master’s degree holders in psychology.
 
-#### Step 4: 
+#### Step 4:
 
 If you decide you need medication, you will set up regular meeting times with a doctor who can prescribe it.
 
 This doctor would be an MD specialized in psychiatry.
 
-This doctor won't talk much about in depth emotions with you. They mainly ask about your symptoms to determine which medication suits you.
+This doctor won't talk much about in-depth emotions with you. They mainly ask about your symptoms to determine which medication suits you.
 
->Tips:
+> Tips:
 >* Psychiatric medications generally take about three weeks to take effect, do not stop them on your own, or it will be in vain.
 >* The dosage should be increased or decreased gradually, do not choose to take more on the bad mood days and completely stop on the good mood days.
 >* You have the freedom to change doctors, counselors, or institutions. You also have the freedom to decide whether to take medication and whether to continue treatment.
 
->![tree standing against a wall][tree]
->A tree that stands up by itself, no matter how unconventional the environment gets (Original Photo)
-
----
-
+> ![A tree that stands up by itself, no matter how unconventional the environment gets (Original Photo)][tree]
 
 ### The General Mechanisms of Commonly Used Medications
 As shown in the figure, our brain has countless nerve cells. The brain sends commands to nerve cells, and the nerve cells communicate the commands to the cells responsible for specific functions. The messengers between these cells are neurotransmitters.
 
 Neurotransmitters are released by one cell and received by receptors on the next cell, thus transmitting signals. The unused ones are recycled by the nerve cells for reuse ♻️ (as shown in the figure).
 
->![Neurotransmitters at the synaptic junction][diagram]
->(Original Photo)
+> ![Neurotransmitters at the synaptic junction (Original Photo)][diagram]
 
 Antidepressants and anti-anxiety medications mainly increase certain neurotransmitters between cells:
 
 * Dopamine, responsible for feelings of pleasure and excitement.
-
 * Serotonin, which governs happiness, regulates intestinal motility, and is the precursor of melatonin responsible for sleep.
-
 * Norepinephrine, responsible for alertness and vigilance.
-
----
-
 
 ### Types of Medications:
 
->![artistic picture of flower and medications][meds]
->(Original Photo)
+> ![Artistic picture of flower and medications (Original Photo)][meds]
 
 1️⃣ First-generation: Mainly tricyclic antidepressants (TCAs) and monoamine oxidase inhibitors (MAOIs). Due to side effects and the development of second-generation drugs, they are not commonly used. (Reference 1.)
 
@@ -135,9 +119,6 @@ Mainly [enhance excitement, enhance motivation, anti-depression, but not anti-an
 
 Examples: Bupropion (Wellbutrin).
 
----
-
-
 ### Mind Healing Tips
 
 * Healing Seasonal Affective Disorder (SAD):
@@ -145,32 +126,31 @@ Sunlight therapy lamps are a good choice, they can simulate summer sunlight!
 They block most UV but retain other sunlight ☀️ factors, supplementing Vitamin D!
 
 * Daily Mood Booster - Chocolate:
-  >![calming chocolates][chocolates]
-  >(Original Photo)
-  
+  > ![Calming chocolates (Original Photo)][chocolates]
+
 I found this at Safeway. It is not a medication, you might treat it as a supplement or just snacks.
 It also has an energetic version, sleep-aiding version, and children's multivitamin version.
 
-* Let's not repeatitativly sugest things like "making more friends" or "go out, meet new people...". For some individuls, depression is like the soul got tired, then don't force it to socialize. Sometimes, Loneliness gives you mental space to focus on healing.  
+* Let's not repetitively suggest things like "making more friends" or "go out, meet new people...". For some individuals, depression is like the soul got tired, then don't force it to socialize. Sometimes, Loneliness gives you mental space to focus on healing.  
 When you're tired, just unload all burdens, curl up, and **self-care, self-care, self-care**.
 
 For example: Aromatherapy, skincare, doing a facial mask, cooking a simple meal, or enjoying the free sunshine ☀️...
 
 * Jump out of the loop: When you feel trapped in sadness 💔, immediately do something else, go for a walk. Physical activity can pull your brain 🧠 out of the thought loop.
   
-  >![walk in fresh air after rain][umbrella1]
-  >![Walk in fresh air after rain][umbrella2]
-  >Walk in the Refreshed Air @ Dumbarton Oaks.(Original Photos).
+  > ![Walk in fresh air after rain (Original Photo)][umbrella1]
+
+  > ![Walk in fresh air after rain (Original Photo)][umbrella2]
+  
+  Walk in the Refreshed Air @ Dumbarton Oaks.(Original Photos).
 
 * When self-care helps you get moving a bit, exercise a little.
 
 The endorphins from exercise that make you feel refreshed can't be increased by any medication. Instead, exercising is a great way to increase your endorphin level!  
     
-  >![A track runway][runway2]
-  >(Original Photo)
+  > ![A track runway (Original Photo)][runway2]
 
----
-##### Alright, it's easier said than done. Only those who have been through it know. That's why this article doesn't preach, it only offers practical tips!
+### Alright, it's easier said than done. Only those who have been through it know. That's why this article doesn't preach, it only offers practical tips!
 
 ---
 
@@ -180,13 +160,13 @@ References:
 
 (Khushboo et al, 2017) doi: 10.15406/jabb.2017.03.00082.
 
-[dawn]:/assets/img/post1/BeautifulDawn.jpg
-[roses]:/assets/img/post1/roses.jpg
-[runway]:/assets/img/post1/runway.jpg
-[tree]:/assets/img/post1/tree.jpg
-[diagram]:assets/img/post1/diagram.jpg
-[meds]:assets/img/post1/meds.jpg
-[chocolates]:assets/img/post1/chocolates.jpg
-[umbrella1]:assets/img/post1/umbrella1.jpg
-[umbrella2]:assets/img/post1/umbrella2.jpg
-[runway2]:assets/img/post1/runway2.jpg
+[dawn]: /assets/img/post1/BeautifulDawn.jpg
+[roses]: /assets/img/post1/roses.jpg
+[runway]: /assets/img/post1/runway.jpg
+[tree]: /assets/img/post1/tree.jpg
+[diagram]: /assets/img/post1/diagram.jpg
+[meds]: /assets/img/post1/meds.jpg
+[chocolates]: /assets/img/post1/chocolates.jpg
+[umbrella1]: /assets/img/post1/umbrella1.jpg
+[umbrella2]: /assets/img/post1/umbrella2.jpg
+[runway2]: /assets/img/post1/runway2.jpg
