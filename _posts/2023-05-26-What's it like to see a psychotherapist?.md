@@ -83,10 +83,11 @@ This doctor won't talk much about in depth emotions with you. They mainly ask ab
 As shown in the figure, our brain has countless nerve cells. The brain sends commands to nerve cells, and the nerve cells communicate the commands to the cells responsible for specific functions. The messengers between these cells are neurotransmitters.
 
 Neurotransmitters are released by one cell and received by receptors on the next cell, thus transmitting signals. The unused ones are recycled by the nerve cells for reuse ♻️ (as shown in the figure).
+
 >![Neurotransmitters between at the synaptic junction][diagram]
 >(Original Photo)
 
-[Antidepressants and anti-anxiety medications mainly increase certain neurotransmitters between cells]:
+Antidepressants and anti-anxiety medications mainly increase certain neurotransmitters between cells:
 
 * Dopamine, responsible for feelings of pleasure and excitement.
 
@@ -144,6 +145,7 @@ They block most UV but retain other sunlight ☀️ factors, supplementing Vitam
 
 * Daily Mood Booster - Chocolate:
   >![calming chocolates][chocolates]
+  
 I found this at Safeway. It is not a medication, you might treat it as a supplement or just snacks.
 It also has an energetic version, sleep-aiding version, and children's multivitamin version.
 
@@ -153,6 +155,7 @@ When you're tired, just unload all burdens, curl up, and **self-care, self-care,
 For example: Aromatherapy, skincare, doing a facial mask, cooking a simple meal, or enjoying the free sunshine ☀️...
 
 * Jump out of the loop: When you feel trapped in sadness 💔, immediately do something else, go for a walk. Physical activity can pull your brain 🧠 out of the thought loop.
+  
   >![walk in fresh air after rain][umbrella 1]
   >![Walk in fresh air after rain][umbrella 2]
   >Walk in the Refreshed Air @ Dumbarton Oaks.(Original Photos).
@@ -160,9 +163,9 @@ For example: Aromatherapy, skincare, doing a facial mask, cooking a simple meal,
 * When self-care helps you get moving a bit, exercise a little.
 
 The endorphins from exercise that make you feel refreshed can't be increased by any medication. Instead, exercising is a great way to increase your endorphin level!
+
   >![A track runway][runway2]
   >(Original Photo)
->
 
 ---
 ##### Alright, it's easier said than done. Only those who have been through it know. That's why this article doesn't preach, it only offers practical tips!
