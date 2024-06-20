@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Connect Science with Living in Style
+title: Science and Lifestyle:
+subtitle: Bridging the Gap
 permalink: /blog/
 ---
 
-<p>I kept some of the top hit articles here. For more posts in Chinese, click <a href="https://www.dealmoon.com/u/353625?type=guide">here</a>.</p>
+<p class="intro-text">Explore the intersection of science and everyday living through some of the top viewed articles from my KOL blog. For more posts in my original KOL page in Chinese, click <a href="https://www.dealmoon.com/u/353625?type=guide">here</a>.</p>
 
 <div class="posts-list">
   {% for post in site.posts %}
@@ -22,3 +23,4 @@ permalink: /blog/
     </div>
   {% endfor %}
 </div>
+
