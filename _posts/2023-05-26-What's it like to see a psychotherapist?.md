@@ -82,7 +82,9 @@ Neurotransmitters are released by one cell and received by receptors on the next
 
 * Norepinephrine, responsible for alertness and vigilance.
 
-Types of Medications:
+###Types of Medications:
+>![artistic picture of flower and medications][meds]
+>(Original Photo)
 
 1️⃣ First-generation: Mainly tricyclic antidepressants (TCAs) and monoamine oxidase inhibitors (MAOIs). Due to side effects and the development of second-generation drugs, they are not commonly used. (Reference 1.)
 
@@ -155,6 +157,7 @@ References:
 [roses]:/assets/img/post1_roses.jpg
 [tree]:/assets/img/post1_tree.jpg
 [diagram]:assets/img/post1_diagram.jpg
+[meds]:assets/img/post1_meds.jpg
 [chocolates]:assets/img/post1_chocolates.jpg
 [umbrella 1]:assets/img/post1_umbrella1.jpg
 [umbrella 2]:assets/img/post1_umbrella2.jpg
