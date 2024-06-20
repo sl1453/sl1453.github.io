@@ -84,7 +84,7 @@ As shown in the figure, our brain has countless nerve cells. The brain sends com
 
 Neurotransmitters are released by one cell and received by receptors on the next cell, thus transmitting signals. The unused ones are recycled by the nerve cells for reuse ♻️ (as shown in the figure).
 
->![Neurotransmitters between at the synaptic junction][diagram]
+>![Neurotransmitters at the synaptic junction][diagram]
 >(Original Photo)
 
 Antidepressants and anti-anxiety medications mainly increase certain neurotransmitters between cells:
@@ -99,6 +99,7 @@ Antidepressants and anti-anxiety medications mainly increase certain neurotransm
 
 
 ### Types of Medications:
+
 >![artistic picture of flower and medications][meds]
 >(Original Photo)
 
@@ -145,6 +146,7 @@ They block most UV but retain other sunlight ☀️ factors, supplementing Vitam
 
 * Daily Mood Booster - Chocolate:
   >![calming chocolates][chocolates]
+  >(Original Photo)
   
 I found this at Safeway. It is not a medication, you might treat it as a supplement or just snacks.
 It also has an energetic version, sleep-aiding version, and children's multivitamin version.
@@ -163,7 +165,6 @@ For example: Aromatherapy, skincare, doing a facial mask, cooking a simple meal,
 * When self-care helps you get moving a bit, exercise a little.
 
 The endorphins from exercise that make you feel refreshed can't be increased by any medication. Instead, exercising is a great way to increase your endorphin level!
-
     >![A track runway][runway2]
     >(Original Photo)
 
