@@ -8,6 +8,7 @@ share-img: /assets/img/path.jpg
 tags: [Good Bye Depression, Mental Health, International Students in the U.S.]
 author: Shican (Claire) Li/LaPetitePrincessa
 ---
+___
 
 What happens when you see a psychotherapist?
 
@@ -30,7 +31,7 @@ The last one is crucial!
 >![track runway][runway]
 >Self-care: Get Some Excercise (Original Photo)
 
----
+___
 
 ### Seeking Doctor's Help:
 
