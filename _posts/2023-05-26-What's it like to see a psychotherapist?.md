@@ -8,6 +8,7 @@ share-img: /assets/img/path.jpg
 tags: [Good Bye Depression, Mental Health, International Students in the U.S.]
 author: Shican (Claire) Li/LaPetitePrincessa
 ---
+
 What happens when you see a psychotherapist?
 
 This article will be particularly suitable for students who need help but have been hesitant. I've also summarized the current common classifications of antidepressants and anti-anxiety medications, explaining the mechanisms of how they can assist you.
@@ -20,7 +21,7 @@ Additionally, summer is a good time to prepare fighting for the seasonal affecti
 
 Depressive feelings can affect our quality of life, physical health, and may develop into long-term depression. I hope we all take it seriously, but at the same time, understand that it is very common. If needed, be sure to seek professional help and **face it positively!**
 
-##Healing Formula: Therapy + Medication + **Self-care**
+## Healing Formula: Therapy + Medication + **Self-care**
 
 The last one is crucial!
 >![roses under the sun][roses]
@@ -29,15 +30,17 @@ The last one is crucial!
 >![track runway][runway]
 >Self-care: Get Some Excercise (Original Photo)
 
-###Seeking Doctor's Help:
+---
+
+### Seeking Doctor's Help:
 
 If you are a student, there will be a mental health office at school. Psychological counseling is usually included in student health insurance, so don't hesitate, just go to the front desk or make an appointment by phone. If you are no longer a student, the following process might be roughly similar.
 
-####Step 1:
+#### Step 1:
 
 The first appointment will have you fill out an assessment questionnaire, including personal information, current emotional status, recent psychological state, etc. This test will give the first doctor who receives you a reference.
 
-####Step 2:
+#### Step 2:
 
 The first doctor you meet, whom I call the "allocator," will first chat with you to understand your psychological state and treatment needs. They will also ask about your general background.
 
@@ -47,13 +50,13 @@ There are two types of mental health professionals: Psychologists and Psychiatri
 
 At this stage, you can express whether you only want psychological counseling, or both therapist and psychiatrist.
 
-####Step 3: Chatting with the Therapist
+#### Step 3: Chatting with the Therapist
 
 You will establish mutual trust through conversation. After that, set a regular meeting time.
 
 Therapists are usually Ph.D. or Master’s degree holders in psychology.
 
-####Step 4: If you decide you need medication, you will set up regular meeting times with a doctor who can prescribe it.
+#### Step 4: If you decide you need medication, you will set up regular meeting times with a doctor who can prescribe it.
 
 This doctor would be an MD specialized in psychiatry.
 
@@ -67,7 +70,9 @@ This doctor won't talk much about in depth emotions with you. They mainly ask ab
 >![tree standing against a wall][tree]
 >A tree that stands up by itself, no matter how unconventional the environment gets (Original Photo)
 
-###The General Mechanisms of Commonly Used Medications
+---
+
+### The General Mechanisms of Commonly Used Medications
 As shown in the figure, our brain has countless nerve cells. The brain sends commands to nerve cells, and the nerve cells communicate the commands to the cells responsible for specific functions. The messengers between these cells are neurotransmitters.
 
 Neurotransmitters are released by one cell and received by receptors on the next cell, thus transmitting signals. The unused ones are recycled by the nerve cells for reuse ♻️ (as shown in the figure).
@@ -82,7 +87,9 @@ Neurotransmitters are released by one cell and received by receptors on the next
 
 * Norepinephrine, responsible for alertness and vigilance.
 
-###Types of Medications:
+---
+
+### Types of Medications:
 >![artistic picture of flower and medications][meds]
 >(Original Photo)
 
@@ -118,7 +125,8 @@ Mainly [enhance excitement, enhance motivation, anti-depression, but not anti-an
 
 Examples: Bupropion (Wellbutrin).
 
-###Mind Healing Tips
+---
+### Mind Healing Tips
 
 * Healing Seasonal Affective Disorder (SAD):
 Sunlight therapy lamps are a good choice, they can simulate summer sunlight!
@@ -145,7 +153,11 @@ The endorphins from exercise that make you feel refreshed can't be increased by 
   >![A track runway][runway2]
   >(Original Photo)
 >
-###Alright, it's easier said than done. Only those who have been through it know. That's why this article doesn't preach, it only offers practical tips!
+
+---
+### Alright, it's easier said than done. Only those who have been through it know. That's why this article doesn't preach, it only offers practical tips!
+
+---
 
 References:
 
