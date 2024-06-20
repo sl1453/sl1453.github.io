@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Science and Lifestyle:
+title: Science and Lifestyle
 subtitle: Bridging the Gap
 permalink: /blog/
 ---
