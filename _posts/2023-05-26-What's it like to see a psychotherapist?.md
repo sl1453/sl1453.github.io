@@ -5,7 +5,7 @@ subtitle: Anti-Depression Guide + Common Medications + Soul Healing Odyssey
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/post1/BeautifulDawn.jpg
 share-img: /assets/img/path.jpg
-tags: [Good Bye Depression, Mental Health, International Students in the U.S.]
+tags: [Goodbye Depression, Mental Health, International Students in the U.S.]
 author: Shican (Claire) Li/LaPetitePrincessa
 ---
 
@@ -16,6 +16,7 @@ This article will be particularly suitable for students who need help but have b
 Additionally, summer is a good time to prepare for fighting the seasonal affective disorder (SAD) which is more common in autumn and winter. It's a good time to stock up on mental and physical resources and build a psychological fortress. The second half of this article will share some small strategies and items to dispel depressive emotions.
 
 > ![Get Prepared to Greet the Beautiful Dawn (Original photo)][dawn]
+> Get Prepared to Greet the Beautiful Dawn (Original photo)
 
 **_(This article does not represent any medical advice, but is a summary of literature and individual experiences) (All medications require a prescription, please consult your doctor and do not self-medicate) (Differences in Individual conditions are significant, this article is not comprehensive)_**
 
