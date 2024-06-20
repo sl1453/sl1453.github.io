@@ -3,7 +3,7 @@ layout: post
 title: What's it like to see a psychotherapist?
 subtitle: Anti-Depression Guide + Common Medications + Soul Healing Odyssey
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/post1_BeautifulDawn.jpg
+thumbnail-img: /assets/img/post1/BeautifulDawn.jpg
 share-img: /assets/img/path.jpg
 tags: [Good Bye Depression, Mental Health, International Students in the U.S.]
 author: Shican (Claire) Li/LaPetitePrincessa
@@ -166,12 +166,12 @@ References:
 
 (Khushboo et al, 2017) doi: 10.15406/jabb.2017.03.00082.
 
-[dawn]:/assets/img/post1_BeautifulDawn.jpg
-[roses]:/assets/img/post1_roses.jpg
-[tree]:/assets/img/post1_tree.jpg
-[diagram]:assets/img/post1_diagram.jpg
-[meds]:assets/img/post1_meds.jpg
-[chocolates]:assets/img/post1_chocolates.jpg
-[umbrella 1]:assets/img/post1_umbrella1.jpg
-[umbrella 2]:assets/img/post1_umbrella2.jpg
-[runway2]:assets/img/post1_runway2.jpg
+[dawn]:/assets/img/post1/BeautifulDawn.jpg
+[roses]:/assets/img/post1/roses.jpg
+[tree]:/assets/img/post1/tree.jpg
+[diagram]:assets/img/post1/diagram.jpg
+[meds]:assets/img/post1/meds.jpg
+[chocolates]:assets/img/post1/chocolates.jpg
+[umbrella 1]:assets/img/post1/umbrella1.jpg
+[umbrella 2]:assets/img/post1/umbrella2.jpg
+[runway2]:assets/img/post1/runway2.jpg
