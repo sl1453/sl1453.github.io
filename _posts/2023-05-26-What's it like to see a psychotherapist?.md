@@ -27,8 +27,10 @@ Healing Formula: Therapy + Medication + **Self-care**
 The last one is crucial!
 
 > ![Self-care: Get More Sunlight (Original Photo)][roses]
+> Self-care: Get More Sunlight (Original Photo)
 
 > ![Self-care: Get Some Exercise (Original Photo)][runway]
+> Self-care: Get Some Exercise (Original Photo)
 
 ### Seeking Doctor's Help:
 
@@ -70,6 +72,7 @@ This doctor won't talk much about in-depth emotions with you. They mainly ask ab
 >* You have the freedom to change doctors, counselors, or institutions. You also have the freedom to decide whether to take medication and whether to continue treatment.
 
 > ![A tree that stands up by itself, no matter how unconventional the environment gets (Original Photo)][tree]
+> A tree that stands up by itself, no matter how unconventional the environment gets (Original Photo)
 
 ### The General Mechanisms of Commonly Used Medications
 As shown in the figure, our brain has countless nerve cells. The brain sends commands to nerve cells, and the nerve cells communicate the commands to the cells responsible for specific functions. The messengers between these cells are neurotransmitters.
@@ -77,6 +80,7 @@ As shown in the figure, our brain has countless nerve cells. The brain sends com
 Neurotransmitters are released by one cell and received by receptors on the next cell, thus transmitting signals. The unused ones are recycled by the nerve cells for reuse ♻️ (as shown in the figure).
 
 > ![Neurotransmitters at the synaptic junction (Original Photo)][diagram]
+> Neurotransmitters at the synaptic junction (Original Photo)
 
 Antidepressants and anti-anxiety medications mainly increase certain neurotransmitters between cells:
 
@@ -87,6 +91,7 @@ Antidepressants and anti-anxiety medications mainly increase certain neurotransm
 ### Types of Medications:
 
 > ![Artistic picture of flower and medications (Original Photo)][meds]
+> Artistic picture of flower and medications (Original Photo)
 
 1️⃣ First-generation: Mainly tricyclic antidepressants (TCAs) and monoamine oxidase inhibitors (MAOIs). Due to side effects and the development of second-generation drugs, they are not commonly used. (Reference 1.)
 
@@ -122,34 +127,35 @@ Examples: Bupropion (Wellbutrin).
 
 ### Mind Healing Tips
 
-* Healing Seasonal Affective Disorder (SAD):
-Sunlight therapy lamps are a good choice, they can simulate summer sunlight!
-They block most UV but retain other sunlight ☀️ factors, supplementing Vitamin D!
+* Healing Seasonal Affective Disorder (SAD):  
+Sunlight therapy lamps are a good choice, they can simulate summer sunlight!  
+They block most UV but retain other sunlight ☀️ factors, supplementing Vitamin D!  
 
 * Daily Mood Booster - Chocolate:
   > ![Calming chocolates (Original Photo)][chocolates]
+  > Calming chocolates (Original Photo)
 
-I found this at Safeway. It is not a medication, you might treat it as a supplement or just snacks.
+I found this at Safeway. It is not a medication, you might treat it as a supplement or just snacks.  
 It also has an energetic version, sleep-aiding version, and children's multivitamin version.
 
 * Let's not repetitively suggest things like "making more friends" or "go out, meet new people...". For some individuals, depression is like the soul got tired, then don't force it to socialize. Sometimes, Loneliness gives you mental space to focus on healing.  
-When you're tired, just unload all burdens, curl up, and **self-care, self-care, self-care**.
+When you're tired, just unload all burdens, curl up, and **self-care, self-care, self-care**.  
 
 For example: Aromatherapy, skincare, doing a facial mask, cooking a simple meal, or enjoying the free sunshine ☀️...
 
 * Jump out of the loop: When you feel trapped in sadness 💔, immediately do something else, go for a walk. Physical activity can pull your brain 🧠 out of the thought loop.
   
   > ![Walk in fresh air after rain (Original Photo)][umbrella1]
+  > Walk in fresh air after rain (Original Photo)
 
   > ![Walk in fresh air after rain (Original Photo)][umbrella2]
+  > Walk in fresh air after rain (Original Photo)
   
-  Walk in the Refreshed Air @ Dumbarton Oaks.(Original Photos).
-
 * When self-care helps you get moving a bit, exercise a little.
 
 The endorphins from exercise that make you feel refreshed can't be increased by any medication. Instead, exercising is a great way to increase your endorphin level!  
     
-  > ![A track runway (Original Photo)][runway2]
+  > ![A track runway (Original Photo)][runway2](Original Photo) 
 
 ### Alright, it's easier said than done. Only those who have been through it know. That's why this article doesn't preach, it only offers practical tips!
 
