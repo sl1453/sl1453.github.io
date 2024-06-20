@@ -33,6 +33,7 @@ The last one is crucial!
 
 ___
 
+
 ### Seeking Doctor's Help:
 
 If you are a student, there will be a mental health office at school. Psychological counseling is usually included in student health insurance, so don't hesitate, just go to the front desk or make an appointment by phone. If you are no longer a student, the following process might be roughly similar.
@@ -51,27 +52,32 @@ There are two types of mental health professionals: Psychologists and Psychiatri
 
 At this stage, you can express whether you only want psychological counseling, or both therapist and psychiatrist.
 
-#### Step 3: Chatting with the Therapist
+#### Step 3: 
+
+Chatting with the Therapist
 
 You will establish mutual trust through conversation. After that, set a regular meeting time.
 
 Therapists are usually Ph.D. or Master’s degree holders in psychology.
 
-#### Step 4: If you decide you need medication, you will set up regular meeting times with a doctor who can prescribe it.
+#### Step 4: 
+
+If you decide you need medication, you will set up regular meeting times with a doctor who can prescribe it.
 
 This doctor would be an MD specialized in psychiatry.
 
 This doctor won't talk much about in depth emotions with you. They mainly ask about your symptoms to determine which medication suits you.
 
 >Tips:
->Psychiatric medications generally take about three weeks to take effect, do not stop them on your own, or it will be in vain.
->The dosage should be increased or decreased gradually, do not choose to take more on the bad mood days and completely stop on the good mood days.
->You have the freedom to change doctors, counselors, or institutions. You also have the freedom to decide whether to take medication and whether to continue treatment.
+>* Psychiatric medications generally take about three weeks to take effect, do not stop them on your own, or it will be in vain.
+>* The dosage should be increased or decreased gradually, do not choose to take more on the bad mood days and completely stop on the good mood days.
+>* You have the freedom to change doctors, counselors, or institutions. You also have the freedom to decide whether to take medication and whether to continue treatment.
 
 >![tree standing against a wall][tree]
 >A tree that stands up by itself, no matter how unconventional the environment gets (Original Photo)
 
 ---
+
 
 ### The General Mechanisms of Commonly Used Medications
 As shown in the figure, our brain has countless nerve cells. The brain sends commands to nerve cells, and the nerve cells communicate the commands to the cells responsible for specific functions. The messengers between these cells are neurotransmitters.
@@ -89,6 +95,7 @@ Neurotransmitters are released by one cell and received by receptors on the next
 * Norepinephrine, responsible for alertness and vigilance.
 
 ---
+
 
 ### Types of Medications:
 >![artistic picture of flower and medications][meds]
@@ -127,6 +134,8 @@ Mainly [enhance excitement, enhance motivation, anti-depression, but not anti-an
 Examples: Bupropion (Wellbutrin).
 
 ---
+
+
 ### Mind Healing Tips
 
 * Healing Seasonal Affective Disorder (SAD):
@@ -156,7 +165,7 @@ The endorphins from exercise that make you feel refreshed can't be increased by 
 >
 
 ---
-### Alright, it's easier said than done. Only those who have been through it know. That's why this article doesn't preach, it only offers practical tips!
+##### Alright, it's easier said than done. Only those who have been through it know. That's why this article doesn't preach, it only offers practical tips!
 
 ---
 
