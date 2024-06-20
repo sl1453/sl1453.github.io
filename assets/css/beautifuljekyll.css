@@ -542,8 +542,15 @@ footer .footer-custom-content {
 .blog-page-title {
   font-size: 3.5rem; /* Adjust this value to your preferred size */
   margin-top: 2.5rem; /* Adjust the spacing as needed */
+  text-align: center;
 }
 
+.intro-subtitle {
+  font-size: 2rem; /* Adjust the size as needed */
+  margin-top: 1rem; /* Add space between title and subtitle */
+  margin-bottom: 1rem; /* Adjust the spacing as needed */
+  text-align: center;
+}
 .intro-text {
   margin-top: 1.5rem; /* Adjust the value as needed for more space */
 }
