@@ -164,9 +164,10 @@ For example: Aromatherapy, skincare, doing a facial mask, cooking a simple meal,
 
 * When self-care helps you get moving a bit, exercise a little.
 
-The endorphins from exercise that make you feel refreshed can't be increased by any medication. Instead, exercising is a great way to increase your endorphin level!
-    >![A track runway][runway2]
-    >(Original Photo)
+The endorphins from exercise that make you feel refreshed can't be increased by any medication. Instead, exercising is a great way to increase your endorphin level!  
+    
+  >![A track runway][runway2]
+  >(Original Photo)
 
 ---
 ##### Alright, it's easier said than done. Only those who have been through it know. That's why this article doesn't preach, it only offers practical tips!
