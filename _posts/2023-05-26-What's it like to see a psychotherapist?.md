@@ -22,7 +22,7 @@ Additionally, summer is a good time to prepare fighting for the seasonal affecti
 
 Depressive feelings can affect our quality of life, physical health, and may develop into long-term depression. I hope we all take it seriously, but at the same time, understand that it is very common. If needed, be sure to seek professional help and **face it positively!**
 
-## Healing Formula: Therapy + Medication + **Self-care**
+Healing Formula: Therapy + Medication + **Self-care**
 
 The last one is crucial!
 >![roses under the sun][roses]
