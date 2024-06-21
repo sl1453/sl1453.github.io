@@ -2,13 +2,14 @@
 layout: post
 title: Is Your Vaccine a Cocktail🍹?! 
 subtitle: Should You Get the Seasonal Flu Vaccine? Who Should Get It? How Are Vaccines Made? Q&A!
-cover-img: /assets/img/post2/cocktail.jpg
+cover-img: /assets/img/post2/cocktail1.jpg
 thumbnail-img: /assets/img/post2/cocktail.jpg
 share-img: /assets/img/post2/cocktail.jpg
 tags: [Flu Vaccine, Health, COVID, Vaccination]
 author: Shican (Claire) Li/LaPetitePrincessa
 ---
-___
+
+Should You Get the Seasonal Flu Vaccine? Who Should Get It? How Are Vaccines Made? Q&A!
 
 Every year, schools or employers encourage you to get the flu vaccine💉. Do you follow their advice👶? Or do you feel that life is already exhausting😭 and you don't want to add another challenge to your immune system, leaving it to fate whether you catch the flu?
 
