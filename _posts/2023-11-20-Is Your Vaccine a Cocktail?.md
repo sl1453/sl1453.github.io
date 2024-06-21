@@ -108,6 +108,9 @@ Currently, mRNA vaccine technology has not been widely used for flu vaccines (ex
 
 **Boosting Overall Immune Function**: Although the flu vaccine specifically targets the flu virus, the process of activating and producing antibodies can generally enhance the immune system. This is the immune system's ability to adapt and respond to viral antigens.
 
+>![cocktail of drugs][cocktail]  
+>(Shican Claire's Original image)
+
 ---
 
 #### Does generating antibodies consume extra nutrients from me? I live a fast paced life, already stressed, sleep-deprived, and with no time to eat properly🍽️, is it an additional burden to generate antibodies? 
@@ -118,10 +121,10 @@ Currently, mRNA vaccine technology has not been widely used for flu vaccines (ex
 
 **How Antibodies Protect You**: Antibodies are the heroes of the immune system in fighting viral infections. They prevent or mitigate viral infections in several ways, such as:
 
->**Neutralizing Viruses**: Antibodies bind to viral proteins, preventing the virus from entering human cells, like locking the key outside the door.
->**Agglutinating Viruses**: Antibodies can bind to multiple virus particles simultaneously, causing them to cluster together, making it easier for immune cells to find and destroy them.
->**Phagocytosing Viruses**: Antibodies can coat viruses, marking them for phagocytes to engulf and destroy.
->**Blocking Viral Entry into Cells**: Antibodies bind to viruses, preventing them from attaching to human cell receptors, thus stopping the infection.
+>**Neutralizing Viruses**: Antibodies bind to viral proteins, preventing the virus from entering human cells, like locking the key outside the door.  
+>**Agglutinating Viruses**: Antibodies can bind to multiple virus particles simultaneously, causing them to cluster together, making it easier for immune cells to find and destroy them.  
+>**Phagocytosing Viruses**: Antibodies can coat viruses, marking them for phagocytes to engulf and destroy.  
+>**Blocking Viral Entry into Cells**: Antibodies bind to viruses, preventing them from attaching to human cell receptors, thus stopping the infection.  
 >**Stimulating Immune Response**: Antibody binding can stimulate other parts of the immune system to more actively attack infected cells.
 
 ---
