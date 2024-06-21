@@ -35,7 +35,7 @@ Because...
 
 Of course, it's not real alcohol. It means that each year's flu vaccine is actually a mix (cocktail) of several predicted flu virus strains, either inactivated or antigen parts, to prevent multiple flu viruses. Since it’s not a single virus🦠 but multiple viruses🦠, it’s called a cocktail🍹. However, this is only an estimate, so it can't be 100% accurate in predicting all the viruses you might encounter.
 
->![cocktail of drugs][drink]
+>![cocktail of drugs][drink]  
 >(Shican Claire's Original image)
 
 **Who predicts the annual flu strains?🧝‍♀️**
