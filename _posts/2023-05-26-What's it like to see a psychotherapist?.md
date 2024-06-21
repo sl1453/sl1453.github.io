@@ -8,7 +8,7 @@ share-img: /assets/img/path.jpg
 tags: [Goodbye Depression, Mental Health, International Students in the U.S.]
 author: Shican (Claire) Li/LaPetitePrincessa
 ---
-
+     
 What happens when you see a psychotherapist?
 
 This article will be particularly suitable for students who need help but have been hesitant. I've also summarized the current common classifications of antidepressants and anti-anxiety medications, explaining the mechanisms of how they can assist you.
@@ -27,11 +27,12 @@ Healing Formula: Therapy + Medication + **Self-care**
 The last one is crucial!
 
 > ![Self-care: Get More Sunlight (Original Photo)][roses]
-> Self-care: Get More Sunlight (Original Photo)
+> Self-care: Get More Sunlight (Claire's Original Photo)
 
 > ![Self-care: Get Some Exercise (Original Photo)][runway]
-> Self-care: Get Some Exercise (Original Photo)
+> Self-care: Get Some Exercise (Claire's Original Photo)
 
+                          
 ### Seeking Doctor's Help:
 
 If you are a student, there will be a mental health office at school. Psychological counseling is usually included in student health insurance, so don't hesitate, just go to the front desk or make an appointment by phone. If you are no longer a student, the following process might be roughly similar.
@@ -71,16 +72,17 @@ This doctor won't talk much about in-depth emotions with you. They mainly ask ab
 >* The dosage should be increased or decreased gradually, do not choose to take more on the bad mood days and completely stop on the good mood days.
 >* You have the freedom to change doctors, counselors, or institutions. You also have the freedom to decide whether to take medication and whether to continue treatment.
 
-> ![A tree that stands up by itself, no matter how unconventional the environment gets (Original Photo)][tree]
-> A tree that stands up by itself, no matter how unconventional the environment gets (Original Photo)
+> ![A tree that stands up by itself, no matter how unconventional the environment gets (Claire's Original Photo)][tree]
+> A tree that stands up by itself, no matter how unconventional the environment gets (Claire's Original Photo)
 
+                                                        
 ### The General Mechanisms of Commonly Used Medications
 As shown in the figure, our brain has countless nerve cells. The brain sends commands to nerve cells, and the nerve cells communicate the commands to the cells responsible for specific functions. The messengers between these cells are neurotransmitters.
 
 Neurotransmitters are released by one cell and received by receptors on the next cell, thus transmitting signals. The unused ones are recycled by the nerve cells for reuse ♻️ (as shown in the figure).
 
 > ![Neurotransmitters at the synaptic junction (Original Photo)][diagram]
-> Neurotransmitters at the synaptic junction (Original Photo)
+> Neurotransmitters at the synaptic junction (Claire's Original Photo)
 
 Antidepressants and anti-anxiety medications mainly increase certain neurotransmitters between cells:
 
@@ -88,12 +90,13 @@ Antidepressants and anti-anxiety medications mainly increase certain neurotransm
 * Serotonin, which governs happiness, regulates intestinal motility, and is the precursor of melatonin responsible for sleep.
 * Norepinephrine, responsible for alertness and vigilance.
 
+                                            
 ### Types of Medications:
 
 > ![Artistic picture of flower and medications (Original Photo)][meds]
-> Artistic picture of flower and medications (Original Photo)
+> Artistic picture of flower and medications (Claire's Original Photo)
 
-1️⃣ First-generation: Mainly tricyclic antidepressants (TCAs) and monoamine oxidase inhibitors (MAOIs). Due to side effects and the development of second-generation drugs, they are not commonly used. (Reference 1.)
+**1️⃣ First-generation:** Mainly tricyclic antidepressants (TCAs) and monoamine oxidase inhibitors (MAOIs). Due to side effects and the development of second-generation drugs, they are not commonly used. (Reference 1.)
 
 They mainly increase the amount of serotonin and norepinephrine between cells.
 
@@ -101,39 +104,40 @@ Mainly [enhance motivation, happiness, mild sedation]
 
 Example: Amitriptyline (Elavil), a tricyclic antidepressant.
 
-2️⃣ Second-generation [SSRIs]: They selectively block the reuptake of serotonin ♻️.
+**2️⃣ Second-generation [SSRIs]:** They selectively block the reuptake of serotonin ♻️.
 
 Mainly [reduce anxiety, enhance happiness, regulate sleep]
 
 Examples: Fluoxetine (Prozac), Paroxetine (Paxil, Pexeva), Sertraline (Zoloft), Citalopram (Celexa), Escitalopram (Lexapro).
 
-3️⃣ Second-generation [SNRIs]: They block the reuptake of serotonin and norepinephrine ♻️.
+**3️⃣ Second-generation [SNRIs]:** They block the reuptake of serotonin and norepinephrine ♻️.
 
 Mainly [reduce anxiety, enhance motivation].
 
 Examples: Duloxetine (Cymbalta, Drizalma Sprinkle), Venlafaxine (Effexor XR), Desvenlafaxine (Pristiq), Levomilnacipran (Fetzima).
 
-4️⃣ Atypical antidepressants: Increase the release of serotonin and block its reuptake ♻️. (Reference 2.)
+**4️⃣ Atypical antidepressants:** Increase the release of serotonin and block its reuptake ♻️. (Reference 2.)
 
 Mainly [aid sleep, anti-anxiety, sedation. Do not enhance motivation. (No sexual dysfunction side effects)]
 
 Examples: Mirtazapine (Remeron).
 
-5️⃣ Atypical antidepressants: Block the reuptake of dopamine and norepinephrine ♻️.
+**5️⃣ Atypical antidepressants:** Block the reuptake of dopamine and norepinephrine ♻️.
 
 Mainly [enhance excitement, enhance motivation, anti-depression, but not anti-anxiety, not sedative!. (No sexual dysfunction side effects)]
 
 Examples: Bupropion (Wellbutrin).
 
+                           
 ### Mind Healing Tips
 
-* Healing Seasonal Affective Disorder (SAD):  
+* Healing Seasonal Affective Disorder (SAD):
 Sunlight therapy lamps are a good choice, they can simulate summer sunlight!  
 They block most UV but retain other sunlight ☀️ factors, supplementing Vitamin D!  
 
 * Daily Mood Booster - Chocolate:
   > ![Calming chocolates (Original Photo)][chocolates]
-  > Calming chocolates (Original Photo)
+  > Calming chocolates (Claire's Original Photo)
 
 I found this at Safeway. It is not a medication, you might treat it as a supplement or just snacks.  
 It also has an energetic version, sleep-aiding version, and children's multivitamin version.
@@ -146,16 +150,16 @@ For example: Aromatherapy, skincare, doing a facial mask, cooking a simple meal,
 * Jump out of the loop: When you feel trapped in sadness 💔, immediately do something else, go for a walk. Physical activity can pull your brain 🧠 out of the thought loop.
   
   > ![Walk in fresh air after rain (Original Photo)][umbrella1]
-  > Walk in fresh air after rain (Original Photo)
+  > Walk in fresh air after rain (Claire's Original Photo)
 
   > ![Walk in fresh air after rain (Original Photo)][umbrella2]
-  > Walk in fresh air after rain (Original Photo)
+  > Walk in fresh air after rain (Claire's Original Photo)
   
 * When self-care helps you get moving a bit, exercise a little.
 
 The endorphins from exercise that make you feel refreshed can't be increased by any medication. Instead, exercising is a great way to increase your endorphin level!  
     
-  > ![A track runway (Original Photo)][runway2](Original Photo) 
+  > ![A track runway (Original Photo)][runway2](Claire's Original Photo) 
 
 ### Alright, it's easier said than done. Only those who have been through it know. That's why this article doesn't preach, it only offers practical tips!
 
