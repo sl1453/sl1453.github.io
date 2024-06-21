@@ -9,7 +9,7 @@ tags: [Goodbye Depression, Mental Health, International Students in the U.S.]
 author: Shican (Claire) Li/LaPetitePrincessa
 ---
      
-What happens when you see a psychotherapist?
+What happens when you see a psychotherapist? How do psychiatric medicines work?
 
 This article will be particularly suitable for students who need help but have been hesitant. I've also summarized the current common classifications of antidepressants and anti-anxiety medications, explaining the mechanisms of how they can assist you.
 
