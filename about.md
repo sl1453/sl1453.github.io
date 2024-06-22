@@ -9,13 +9,14 @@ I’m Shican, a self-proclaimed science nerd with a passion for integrating phys
 ### 💼 Research Experience
 - **10 years** of experience in **cell culture**-based research.
 - Skilled in **bioinformatics, microscopy, geospatial point pattern analysis,** and **fluid rheological analysis**.
-- Past projects in **biophysics** at Georgetown and **biochemistry** at Brandeis.
+- Recipient of the DC Cosmos Scholar Research Award. Check out my [interview](https://grad.georgetown.edu/2021/10/18/interview-with-cosmos-scholar-claire-li/) and the [newsletter](https://biology.georgetown.edu/news-story/theyre-out-of-this-world-nicole-wagner-and-shican-claire-li-named-cosmos-scholars%EF%BF%BC/).
+- Past projects in **biophysics** at Georgetown and **biochemistry** at Brandeis University.
 - Curious about my research and data processing pipelines? [Check them out here](/research).
 
 ### 🎓 Education
-- **Ph.D. in Biology** from **Georgetown** University under the guidance of the [amazing Heidi Elmendorf](https://gufaculty360.georgetown.edu/s/contact/00336000014RdOCAA0/heidi-elmendorf).
+- **Ph.D. in Biology** from **Georgetown** University under the guidance of the [amazing Prof. Heidi Elmendorf](https://gufaculty360.georgetown.edu/s/contact/00336000014RdOCAA0/heidi-elmendorf).
 - **M.S.** research at **Brandeis** University in the incredible [Hedstrom lab](https://sites.google.com/brandeis.edu/hedstromlab/).
-- Conducted organic synthesis for my undergraduate honors thesis with the nicest [Professor Cirillo](https://www.newhaven.edu/faculty-staff-profiles/pier-cirillo.php).
+- Conducted organic synthesis for my **undergraduate honors thesis** with the nicest [Professor Cirillo](https://www.newhaven.edu/faculty-staff-profiles/pier-cirillo.php).
 
 ### 👩🏻‍🏫 Teaching Highlights
 - Taught **4 biochemistry lab lectures** and a **genetics lab lecture** during my Ph.D. program.
