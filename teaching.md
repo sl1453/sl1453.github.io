@@ -1,7 +1,6 @@
 ---
 layout: page
-subtitle: Bridging the Gap
-permalink: /blog/
+subtitle: Attention Brings Comprehension
 ---
 
 <h1 class="blog-page-title">Science and Lifestyle</h1>
