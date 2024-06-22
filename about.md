@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Hey there!
+subtitle: "Hey there!
 ---
 I’m Shican, a self-proclaimed science nerd with a passion for integrating physics and bioinformatics into cell biology. When I’m not busy cracking the mysteries of cells under a microscope, you can find me teaching, painting, or blogging. Here's more about my adventures in science and beyond!
 
