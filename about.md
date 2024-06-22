@@ -25,7 +25,7 @@ I’m Shican, a self-proclaimed science nerd with a passion for integrating phys
 
 ### 🌎 Science Outreach
 - Run a science outreach blog.
-- Selected as a **Key Opinion Leader** on a lifestyle platform for global Chinese expats.
+- Selected as a **Key Opinion Leader** on a global lifestyle platform for Chinese expats.
 - [Check out some of my top articles](/blog) on The Science of Acquiring Mental Wellness, The Science in Vaccines, and The Science in Perfumery.
   
 ### ❤️ Hobbies
