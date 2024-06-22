@@ -9,7 +9,7 @@ tags: [Sunscreen, Health, Cosmetic Ingredients, Pollution]
 author: Shican (Claire) Li/LaPetitePrincessa
 ---
                
-Is physical sunscreen really eco-friendly and safe? Is chemical sunscreen just a bunch of industrial chemicals on your skin? How do you distinguish between physical and chemical sunscreens?
+**Is physical sunscreen really eco-friendly and safe? Is chemical sunscreen just a bunch of industrial chemicals on your skin? How do you distinguish between physical and chemical sunscreens?**
 
 Read this article, and you'll be able to quickly check the ingredients and find your ideal sunscreen!
 
@@ -26,7 +26,7 @@ At the end of this article, I've also summarized five sunscreens I've used, comp
 >(Shican Claire's Original photo)
 
 
-### 1️⃣ Distinguishing Physical and Chemical Sunscreens
+## 1️⃣ Distinguishing Physical and Chemical Sunscreens
 Not long ago, I relied on cosmetic influencers to tell me which sunscreen was physical and which was chemical. Now, I look at the ingredients on the back of the bottle to determine. Actually, you only need to check the Active Ingredients section to know:
 
 **Physical Sunscreens:** Look for Zinc Oxide (ZnO) and Titanium Dioxide (TiO2).
@@ -42,8 +42,9 @@ Check the ingredients to know for sure.
 >![Wearing Hats][flower2]   
 >Hats & Cover Shirts & Sun Glasses (Shican Claire's Original photo)
 
+___
 
-### 2️⃣ Skin Feeling Comparison
+## 2️⃣ Skin Feeling Comparison
 
 **Physical Sunscreens:** Generally thicker, often tinted, with a white base color.  
 (Zinc oxide and titanium dioxide are also used in wall paints and ceramics.)
@@ -51,8 +52,9 @@ Check the ingredients to know for sure.
 **Chemical Sunscreens:** Lighter and transparent.   
 As the sunscreen molecules need to penetrate the skin to be effective.
 
+___
 
-### 3️⃣ Ingredient Properties
+## 3️⃣ Ingredient Properties
 
 **Physical Sunscreens:** Use inorganic mineral materials (inorganic sunscreen filters).   
 These type of materials can individually block UVA and UVB rays by covering the skin and not being absorbed.
@@ -60,8 +62,9 @@ These type of materials can individually block UVA and UVB rays by covering the 
 **Chemical Sunscreens:** Use organic molecules (organic sunscreen filters).   
 Typically, a combination is needed to provide broad-spectrum protection. These need to be absorbed by the skin to work.
 
+___
 
-### 4️⃣ Health and Safety
+## 4️⃣ Health and Safety
 
 **Physical Sunscreens:** As long as you don't eat or inhale them excessively, they are safe!
 
@@ -75,8 +78,9 @@ Here are some common ingredients, with their pros and cons for reference:
 >* Octocrylene: 👍 Blocks UVB and some UVA. 🙅 May cause skin allergies.    
 >* Oxybenzone: 👍 Blocks UVA. 🙅 May cause skin allergies, hormone disruption, and harm to coral reefs.
 
+___
 
-### 5️⃣ Coral Friendliness
+## 5️⃣ Coral Friendliness
 
 **Physical Sunscreens ≠ Ocean Friendly!**
 
@@ -99,8 +103,9 @@ Toxic ingredients include Oxybenzone, Octinoxate, Enzacamene, and Benzophenone-4
 
 (There is no consistent standard in academia for the harmful concentration of sunscreen molecules.)
 
+___
 
-### 6️⃣ Personal Sunscreen Reviews
+## 6️⃣ Personal Sunscreen Reviews
 _I have dry skin now, but previously I have combination skin_
 
 For Dry Skin (ranked by skin comfortness):
@@ -117,8 +122,9 @@ For Oily Skin (ranked by comfortness):
 >![selection of sunscreen products][sunscreens]     
 >(Shican Claire's Original Photo).
 
+_____
 
-### 7️⃣ High-End vs. Drugstore Sunscreen Ingredients
+## 7️⃣ High-End vs. Drugstore Sunscreen Ingredients
 
 Sunscreen active ingredients are mostly the same, no significant differences. More expensive sunscreens **might** have more delicate overall formulas to enhancing the comfort feelings on skin.   
 
@@ -130,10 +136,10 @@ The main difference is that higher-end sunscreens **might** use luxurious **inac
 >![Hermes Lotion][hermes1]   
 >(Shican Claire's Original photo)
 
-References:
-doi:10.1002/etc.4349
-https://doi.org/10.1186/s12302-021-00515-w
-10.1126/science.abn2600
+References:  
+doi:10.1002/etc.4349   
+https://doi.org/10.1186/s12302-021-00515-w   
+10.1126/science.abn2600    
 
 
 
