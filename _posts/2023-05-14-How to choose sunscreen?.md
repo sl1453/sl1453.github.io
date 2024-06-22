@@ -15,6 +15,9 @@ Read this article, and you'll be able to quickly check the ingredients and find 
 
 At the end of this article, I've also summarized five sunscreens I've used, comparing high-end sunscreens with drugstore options. This should provide you with a useful reference!
 
+>![Hermes Lotion][cover1]   
+>(Shican Claire's Original photo)
+
 **Sneak Peek: Next time, we'll talk about biologial perfumes, stay tuned!**
 
 >![Hermes Perfume][perfume]   
@@ -111,6 +114,9 @@ For Oily Skin (ranked by comfortness):
 >* Shiseido   
 >* BabyGanics
 
+>![selection of sunscreen products][sunscreens]     
+>(Shican Claire's Original Photo).
+
 
 ### 7️⃣ High-End vs. Drugstore Sunscreen Ingredients
 
@@ -121,8 +127,8 @@ The main difference is that higher-end sunscreens **might** use luxurious **inac
 >* **BabyGanics:** Just use simple and clear ingredients, focusing on the anti-allergy effects.   
 >* **Shiseido:** The new version removed its chemical sunscreen ingredients, becoming a purely physical sunscreen. It  added hyaluronic acid for moisturizing, and focusing on the non-greasy feel. However, despite claiming to be coral-friendly, it uses zinc oxide like other physical sunscreens. Unless they used a new eco-friendly technology, but I haven't seen it indicated anywhere yet.
 
->![selection of sunscreen products][sunscreens]     
->(Shican Claire's Original Photo).
+>![Hermes Lotion][hermes1]   
+>(Shican Claire's Original photo)
 
 References:
 doi:10.1002/etc.4349
