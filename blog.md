@@ -1,11 +1,12 @@
 ---
 layout: page
+title: Science and Lifestyle
 subtitle: Bridging the Gap
 permalink: /blog/
 ---
 
-<h1 class="blog-page-title">Science and Lifestyle</h1>
-<p class="intro-subtitle">{{ page.subtitle }}</p>
+#<h1 class="blog-page-title">Science and Lifestyle</h1>
+#<p class="intro-subtitle">{{ page.subtitle }}</p>
 <p class="intro-text">Explore the intersection of science and everyday living through some of the top viewed articles from my KOL blog. For more posts in my original KOL page in Chinese, click <a href="https://www.dealmoon.com/u/353625?type=guide">here</a>.</p>
 
 <div class="posts-list">
