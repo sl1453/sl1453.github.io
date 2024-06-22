@@ -2,8 +2,8 @@
 layout: post
 title: Physical vs. Chemical Sunscreen?
 subtitle: Ingredients Guide of Ocean Pollution, toxicity, and Skin Feeling
-cover-img: /assets/img/post3/flower1.jpg
-thumbnail-img: /assets/img/post3/flower2.jpg
+cover-img: /assets/img/post3/cover2.jpg
+thumbnail-img: /assets/img/post3/flower1.jpg
 share-img: /assets/img/post3/hermes2.jpg
 tags: [Sunscreen, Health, Cosmetic Ingredients, Pollution]
 author: Shican (Claire) Li/LaPetitePrincessa
