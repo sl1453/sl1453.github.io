@@ -29,7 +29,7 @@ I’m Shican, a great communicator passionate about interdisciplinary research. 
 - [Check out some of my top articles](/blog) on The Science of Acquiring Mental Wellness, The Science in Vaccines, and The Science in Perfumery.
   
 ### ❤️ Hobbies
-- When I’m not in the lab, I unwind with **art therapy**. (We all know Ph.D. students don’t get much vacation time, righ?)
+- When I’m not in the lab, I unwind with **art therapy**. (We all know that Ph.D. students have no vacations, right?)
 - [Explore some of my hobby paintings and opera performance pictures here](/art).
 
 ---
