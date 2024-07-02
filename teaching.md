@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Teach Like a Learner, Learn Like a Teacher
+subtitle: Teaching Philosophy and Student Reflections
 ---
                    
 I was blessed with the opportunity to gain intensive teaching experience during my Ph.D. program, teaching both lab sessions and delivering pre-lab lectures. I taught Genetics Lab and Biochemistry Lab, and even served as the director for the Biochemistry Lab for a semester. Here is my teaching philosophy. Following that, you’ll find thoughts from two of my students about their experiences in my biochemistry lab and pre-lab lectures.
-
+  
+_____
 ## _My Teaching Philosophy_
 Science, in my eyes, is not just a collection of facts and theories but a dynamic process of discovery that connects the past, present, and future. Teaching science is more than just sharing past discoveries; it's about inspiring curiosity, fostering critical thinking, and creating an inclusive learning environment where students feel empowered to explore and engage with the material.    
      
@@ -28,10 +30,13 @@ I want to create an inclusive classroom where all students feel valued and suppo
 ### Engaging Teaching Style   
 I aim to make my classes engaging and lively, reflecting my passion for teaching and science. Keeping students’ attention and curiosity during lectures is key to effective learning. My goal is to bridge science and life by creatively preparing lessons and sharing unique experiences. I believe my creative incorporations of real-world applications and personal anecdotes can make learning enjoyable and help students see the relevance of science in their everyday lives. I also love sharing stories about scientists throughout history to highlight the social, and cultural influences on scientific advancements. This approach helps students see science as a human endeavor, that includes both triumphs and challenges.   
    
-**In summary**, my goal as an educator is to cultivate a lifelong love of learning in my students. Beyond course content, I aim to guide students deeper into the thinking process, helping them appreciate the beauty of problem-solving and the elegance of experimental designs. My teaching philosophy, grounded in empathy, inclusivity, and passion, seeks to inspire my students to embrace genuine curiosity, become independent thinkers, and face the challenges in their learning endeavors with persistence and confidence.
-> ![photo of me teaching][teaching]
-> _first semester of teaching_ 
+**In summary**, my goal as an educator is to cultivate a lifelong love of learning in my students. Beyond course content, I aim to guide students deeper into the thinking process, helping them appreciate the beauty of problem-solving and the elegance of experimental designs. My teaching philosophy, grounded in empathy, inclusivity, and passion, seeks to inspire my students to embrace genuine curiosity, become independent thinkers, and face the challenges in their learning endeavors with persistence and confidence.  
 
+_____
+> ![photo of me teaching][teaching]
+> _first semester of teaching_
+_____
+      
 ## _Students' Feedback_
 
 ### feedback 1 
