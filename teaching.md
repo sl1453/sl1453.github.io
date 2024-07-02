@@ -19,15 +19,15 @@ Just like having a map is helpful when navigating a new place, understanding the
    
 I also encourage students to learn like teachers. Science can be complicated and counterintuitive, and grasping the content often needs repeated efforts. When students come to my office hours with questions, I always ask them to explain their understanding of the question. From there, I help them clarify their thoughts. Afterwards, I encourage them to repeat their understanding to me as if they were teaching the material they just learned.   
    
-### Teach Like a Mirror   
+#### Teach Like a Mirror
 Another part of my teaching philosophy is to “teach like a mirror,” reflecting each student's individual learning style, helping them recognize their interests, and nurturing their unique strengths. My approach involves guiding students to discover answers for themselves through inquiry-based learning and thoughtful questioning. I encourage them to voice their questions, develop hypotheses, and interpret experimental results. This process helps them form a comprehensive understanding of the material, much like their own discovery journey.  
   
-### Breaking the Barrier and Promoting Inclusion      
+#### Breaking the Barrier and Promoting Inclusion
 When I was a kid, I didn't grow up steeped in science education. I thought science was cool but distant, and I didn't see myself as someone smart enough to do research in the future. Fortunately, I had amazing educators who showed me what it’s like to conduct research and work in a lab. They taught me great habits of scientific thinking, which boosted my confidence and broke down the barriers of fear and self-doubting. These experiences ignited my passion for science and gave me the confidence to persist through difficulties. Now, I strive to pass on this idea to my students. By sharing my own research experiences and challenges, I show students that scientists are real people with their own stories and struggles, giving them the courage to face their own learning challenges.   
    
 I want to create an inclusive classroom where all students feel valued and supported, regardless of their academic background or previous experiences. I use analogies to explain concepts and simple language to convey jargons to make learning easier. I am particularly passionate about encouraging women and underrepresented groups in science by sharing the stories of female scientists to inspire my students.
    
-### Engaging Teaching Style   
+#### Engaging Teaching Style
 I aim to make my classes engaging and lively, reflecting my passion for teaching and science. Keeping students’ attention and curiosity during lectures is key to effective learning. My goal is to bridge science and life by creatively preparing lessons and sharing unique experiences. I believe my creative incorporations of real-world applications and personal anecdotes can make learning enjoyable and help students see the relevance of science in their everyday lives. I also love sharing stories about scientists throughout history to highlight the social, and cultural influences on scientific advancements. This approach helps students see science as a human endeavor, that includes both triumphs and challenges.   
    
 **In summary**, my goal as an educator is to cultivate a lifelong love of learning in my students. Beyond course content, I aim to guide students deeper into the thinking process, helping them appreciate the beauty of problem-solving and the elegance of experimental designs. My teaching philosophy, grounded in empathy, inclusivity, and passion, seeks to inspire my students to embrace genuine curiosity, become independent thinkers, and face the challenges in their learning endeavors with persistence and confidence.  
