@@ -4,7 +4,7 @@ title: My Teaching Philosophy
 subtitle: Teach Like a Learner, Learn Like a Teacher
 ---
                    
-I was blessed with the opportunity to gain intensive teaching experience during my Ph.D. program, teaching both lab sessions and delivering pre-lab lectures. I taught Genetics Lab and Biochemistry Lab, and even served as the director for the Biochemistry Lab for a semester. Here is my teaching philosophy. Following that, you’ll find thoughts from two of my students about their experiences in my biochemistry lab and pre-lab lectures.
+I was blessed with the opportunity to gain intensive teaching experience during my Ph.D. program, teaching both lab sessions and pre-lab lectures. I taught Genetics Lab and Biochemistry Lab, and even served as the director for the Biochemistry Lab for a semester. Here is my teaching philosophy. Following that, you’ll find thoughts from two of my students about their experiences in my biochemistry lab and pre-lab lectures.
 
 ##_My Teaching Philosophy_
 Science, in my eyes, is not just a collection of facts and theories but a dynamic process of discovery that connects the past, present, and future. Teaching science is more than just sharing past discoveries; it's about inspiring curiosity, fostering critical thinking, and creating an inclusive learning environment where students feel empowered to explore and engage with the material.    
