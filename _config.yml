@@ -24,7 +24,7 @@ navbar-links:
   Research:
     - Summary:
     - Biophysics:
-    - Cell Bio/Parasitology: "https://beautifuljekyll.com"
+    - Cell Bio/Parasitology: "/GeoSpatialResearch.md"
     - Chemical Bio:
     - Bioinformatics: "https://www.markdowntutorial.com/"
   Data works:
