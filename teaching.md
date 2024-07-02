@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teach Like a Learner, Learn Like a Teacher
+title:    
 subtitle: Teaching Philosophy and Student Reflections
 ---
                    
