@@ -34,12 +34,11 @@ cover-img:
   - "/assets/img/cover29.jpg" : "On Stage, Hainan."
   - "/assets/img/cover30.jpg" : "At Brandeis: When I'm Not in the Lab"
 ---
-Welcome to my little Asteroid B-678! 🪐
+Welcome to Asteroid B-678! 🪐, where share my adventures in science and beyond!
 
-I'm Shican, but friends call me Claire. I graduated with a Ph.D. 🎓 in biology from Georgetown University. Before you click away thinking it's all serious and science-y, here’s why you might want to stick around a little longer!
+I'm Shican, but friends call me Claire. I graduated with a Ph.D. 🎓 in biology from Georgetown University.
 
-Ever wondered what it's like to blend physics ⚛️ and biology 🔬 in the lab, teach with passion🦉, or transform experimental data into stunning visuals🌌 Or maybe you're curious about my artsy side👩‍🎨 or my influencer blog that fuses science with lifestyle tips🏄🏼‍♂️?
+Before you click away, check out how I blend physics ⚛️ and biology 🔬 in the lab, teach with passion🦉, or transform experimental data into stunning visuals🌌 Or maybe you're curious about my influencer blog that fuses science with lifestyle tips🏄🏼‍♂️, or even my artsy side👩‍🎨? P.S.: If you see this, it means I successfully taught myself website building. Scripts are available in my repository for anyone interested!
 
-Well, don't just take my word for it. Head to the [**About**](about) page to dive in. I promise I won't overshare like I do with my friends.
 
-P.S.: If you see this, it means I successfully taught myself website building. I'm including my scripts here for anyone interested!
+Head to the [**About**](about) page to dive in. I promise I won't overshare.
