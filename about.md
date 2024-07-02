@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: Hey there!
 ---
-I’m Shican, a great communicator passionate about interdisciplinary research. When I’m not busy cracking the mysteries of cells under a microscope, you can find me blogging to bridge science and fashion, teaching, or even painting. 
+I’m Shican, a great communicator passionate about interdisciplinary research. When I’m not busy cracking the mysteries of cells under the microscope, you can find me learning new bioinformatic tricks or blogging to bridge science with fashion. 
 
 
 ### 💼 Research Experience
