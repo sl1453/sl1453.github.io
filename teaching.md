@@ -41,7 +41,7 @@ I aim to make my classes engaging and lively, reflecting my passion for teaching
 >    
 > Based on my experience with Shican, I believe that her main strengths lie in her ability to connect with her students and her passion for science that clearly presents through her teaching style ... ..."
 > 
-> ---Sabrina Ciervo,
+> --- Sabrina Ciervo,
 > Georgetown University Class of 2020
 
 ### feedback 2
@@ -51,6 +51,6 @@ I aim to make my classes engaging and lively, reflecting my passion for teaching
 >   
 > As a post-baccalaureate student, I’ve taken many classes with a wide array of teaching assistants.  It’s very clear to me that Claire genuinely cares about her students and their education.  She’s very passionate about learning and puts a great deal of time and effort into helping her students grow as critical thinkers ... ... "
 >    
-> ---Jennifer Henry, BA
+> --- Jennifer Henry, BA
 
 [teaching]:/assets/img/teaching.jpg
