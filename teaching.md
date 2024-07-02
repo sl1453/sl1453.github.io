@@ -33,7 +33,7 @@ I aim to make my classes engaging and lively, reflecting my passion for teaching
 **In summary**, my goal as an educator is to cultivate a lifelong love of learning in my students. Beyond course content, I aim to guide students deeper into the thinking process, helping them appreciate the beauty of problem-solving and the elegance of experimental designs. My teaching philosophy, grounded in empathy, inclusivity, and passion, seeks to inspire my students to embrace genuine curiosity, become independent thinkers, and face the challenges in their learning endeavors with persistence and confidence.  
 
 _____
-> ![photo of me teaching][teaching]
+> ![photo of me teaching][teaching]        
 > _first semester of teaching_
 _____
       
