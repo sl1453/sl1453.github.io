@@ -1,7 +1,6 @@
 ---
 layout: page
-title: 
-subtitle: Teach Like a Learner, Learn Like a Teacher
+title: Teach Like a Learner, Learn Like a Teacher
 ---
                    
 I was blessed with the opportunity to gain intensive teaching experience during my Ph.D. program, teaching both lab sessions and delivering pre-lab lectures. I taught Genetics Lab and Biochemistry Lab, and even served as the director for the Biochemistry Lab for a semester. Here is my teaching philosophy. Following that, you’ll find thoughts from two of my students about their experiences in my biochemistry lab and pre-lab lectures.
