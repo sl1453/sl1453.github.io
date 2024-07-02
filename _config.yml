@@ -22,6 +22,7 @@ author: ShicanLion Claire
 navbar-links:
   About: "about"
   Research:
+    - Summary:
     - Biophysics:
     - Cell Bio/Parasitology: "https://beautifuljekyll.com"
     - Chemical Bio:
