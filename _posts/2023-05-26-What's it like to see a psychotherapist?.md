@@ -161,7 +161,7 @@ The endorphins from exercise that make you feel refreshed can't be increased by 
     
   > ![A track runway (Original Photo)][runway2](Claire's Original Photo) 
 
-### Alright, it's easier said than done. Only those who have been through it know. That's why this article doesn't preach, it only offers practical tips!
+### Alright, it's easier said than done. Only those who have been through it know. This article does not intend to preach, it only offers practical tips!
 
 ---
 
