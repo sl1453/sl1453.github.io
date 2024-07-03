@@ -23,7 +23,7 @@ navbar-links:
   About: "about"
   Research:
     - Summary:
-    - Cell Bio/Parasitology: "/GeoSpatialResearch.md"
+    - Cell Bio/Parasitology: "/GeoSpatialResearch"
     - Biophysics:
     - Chemical Bio:
     - Bioinformatics: "https://www.markdowntutorial.com/"
