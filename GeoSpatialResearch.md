@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cell Behaviors
-subtitle: culturing, imaging, statistics & more
+subtitle: Cell Culture, Imaging, Statistics ++
 ---
 
 ## Introduction
@@ -14,7 +14,7 @@ In my Master's research project, I utilized mammalian cell cultures to study the
 
 A significant part of my dissertation involved investigating the behaviors of _Giardia_ cells in environments with different viscoelastic properties. To study these motile cells, I developed micro-culture systems that enabled systematic imaging of the culture over a time course of growth. This required conducting live cell imaging using various advanced methods, including confocal and spinning disk microscopy.
 
-![Giardia Cell Image](/path/to/your/image1.jpg)
+![Giardia Cell Image](/assets/img/GeoSpatialCellResearh/GiardiaPic.gif)
 *Figure 1: Confocal image of a _Giardia_ trophozoite in culture.*
 
 ## GeoSpatial Analysis Approach
