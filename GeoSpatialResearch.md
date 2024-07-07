@@ -15,7 +15,7 @@ I will discuss my Master's project on the "Chemical Bio" page. This page focuses
     
 I study _Giardia_ trophozoites in environments with varying viscoelastic properties that mimicing their host environments during infection. To investigate these motile cells, I developed micro-culture systems that enable systematic imaging of the culture over a time course of growth. This research required conducting live cell imaging using various advanced methods, including confocal and spinning disk microscopy.
 
-![Giardia Cell Image][/assets/img/GeoSpatialCellResearh/GiardiaPic.gif]  
+![Giardia Cell Image](/assets/img/GeoSpatialCellResearh/GiardiaPic.gif)  
 *Figure 1: Confocal image of a _Giardia_ trophozoite in culture.*
 
 ## GeoSpatial Analysis Approach
