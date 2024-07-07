@@ -15,7 +15,7 @@ I will discuss my Master's project on the "Chemical Bio" page. This page focuses
     
 I study _Giardia_ trophozoites in environments with varying viscoelastic properties that mimicing their host environments during infection. To investigate these motile cells, I developed micro-culture systems that enable systematic imaging of the culture over a time course of growth. This research required conducting live cell imaging using various advanced methods, including confocal and spinning disk microscopy.
 
-![Giardia Cell Image](/assets/img/GeoSpatialCellResearh/GiardiaPic.gif)  
+![Giardia Cell Image](/assets/img/GeoSpatialCellResearch/GiardiaPic.gif)  
 *Figure 1: Confocal image of a _Giardia_ trophozoite in culture.*
 
 ## GeoSpatial Analysis Approach
@@ -30,7 +30,7 @@ One of my key strengths is my willingness to engage with people from different l
 
 Using point intensity probability heatmaps, I was able to visualize the attachment patterns, providing insights into cell responses to fluid mechanics. Example plot:
 
-![Probability Heatmap](/assets/img/GeoSpatialCellResearh/SamplePlot_Point_Intensity_Probability.jpg)  
+![Probability Heatmap](/assets/img/GeoSpatialCellResearch/SamplePlot_Point_Intensity_Probability.jpg)  
 *Figure 2: Probability heatmap showing the intensity of cell attachments.*
 
 ### Image Quadrant Analysis and Chi-Square Test
@@ -44,14 +44,14 @@ I also performed Chi-Square tests to statistically determine cell distributions.
 
 To further validate my findings, I manually created random and regular point patterns and compared them with the actual cell distributions. This comparison helped in understanding the degree of randomness in the cell patterns.
 
-![Pattern Comparison](/assets/img/GeoSpatialCellResearh/sample_random_regular.jpg)  
+![Pattern Comparison](/assets/img/GeoSpatialCellResearch/sample_random_regular.jpg)  
 *Figure 4: Comparison of actual cell distribution with manually created random and regular patterns.*
 
 ### Fitting Point Patterns to Distribution Functions
 
 I also fit the point patterns into different statistical functions to analyze the significance of pattern differences.  
 
-![Distribution Function Fitting](/assets/img/GeoSpatialCellResearh/point_distribution_functions_fitting_vs_Prois.jpg)  
+![Distribution Function Fitting](/assets/img/GeoSpatialCellResearch/point_distribution_functions_fitting_vs_Prois.jpg)  
 *Figure 5: Fitting point patterns to various distribution functions.*
 
 ## Detailed Protocols and Scripts
