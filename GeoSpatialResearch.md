@@ -37,7 +37,7 @@ Using point intensity probability heatmaps, I was able to visualize the attachme
 
 I also performed Chi-Square tests to statistically determine cell distributions. Example:
 
-![Quadrant Analysis](/assets/img/GeoSpatialCellResearh/Plots_Quadrant_Aggregates.jpg)  
+![Quadrant Analysis](/assets/img/GeoSpatialCellResearch/Plots_Quadrant_Aggregates.jpg)  
 *Figure 3: Quadrant analysis of cell distribution with Chi-Square test results.*
 
 ### Comparison with Manually Created Patterns
