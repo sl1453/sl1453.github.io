@@ -6,65 +6,59 @@ subtitle: Cell Culture, Imaging, Statistics ++
 
 ## Introduction
 
-In my Master's research project, I utilized mammalian cell cultures to study the mechanisms of small molecule inhibitors, which I will discuss in detail on the "Chemical Bio" page. Here, I will introduce the cell work from my Ph.D. research, focusing on the behaviors of _Giardia_ cells in varying environments.
+Studying cells has been a essential part of both my Master's research and my Ph.D. projects. In my Master's project, I utilized mammalian cell cultures to investigate the mechanisms of small molecule-mediated tagged protein degradation. My Ph.D. research also heavily involves working with cells, this time, motile cells. I study a protozoan parasite called _Giardia_.
 
-## Ph.D. Research Focus
+I will discuss my Master's project on the "Chemical Bio" page. This page focuses on the work from my Ph.D. research, exploring how _Giardia_ responds to physiological-relevant mechanical cues.
 
-### Study of _Giardia_ Cell Behaviors
 
-A significant part of my dissertation involved investigating the behaviors of _Giardia_ cells in environments with different viscoelastic properties. To study these motile cells, I developed micro-culture systems that enabled systematic imaging of the culture over a time course of growth. This required conducting live cell imaging using various advanced methods, including confocal and spinning disk microscopy.
+## General Goal of My Ph.D. Research  
+    
+I study _Giardia_ trophozoites in environments with varying viscoelastic properties that mimicing their host environments during infection. To investigate these motile cells, I developed micro-culture systems that enable systematic imaging of the culture over a time course of growth. This research required conducting live cell imaging using various advanced methods, including confocal and spinning disk microscopy.
 
-![Giardia Cell Image](/assets/img/GeoSpatialCellResearh/GiardiaPic.gif)
+![Giardia Cell Image](assets/img/GeoSpatialCellResearh/GiardiaPic.gif)  
 *Figure 1: Confocal image of a _Giardia_ trophozoite in culture.*
 
 ## GeoSpatial Analysis Approach
 
-After obtaining high-quality images, the next challenge was analyzing the attachment patterns of _Giardia_ cells. I adopted a method commonly used in GeoSpatial research to analyze point pattern distributions, applying these statistical techniques to study the spatial attachment locations of the cells.
+One of the challenges was to analyze the attachment patterns of _Giardia_ trophozoites. I adopted a method commonly used in GeoSpatial research to analyze point pattern distributions, applying these statistical techniques to study the spatial attachment patterns of the cells.
 
-### R Language and Data Analysis
-
-This project provided an opportunity to teach myself R programming for processing biological image data and conducting statistical analyses. Here are some examples of the analyses I performed:
+### R Language and Data Analysis  
+  
+One of my key strengths is my willingness to engage with people from different labs and departments, and my adaptability in taking on various roles. For this particular challenge, I was inspired by the methods often used by geo-scientists, which differ significantly from the traditional experimental approaches usually used by biologists. This adaptation led me to teach myself R programming for processing biological images and performing statistical analyses. Here are some examples of the analyses I conducted:
 
 ### Probability Heatmaps
 
-Using point intensity probability heatmaps, I was able to visualize the likelihood of cell attachments across different regions. These heatmaps help identify areas of high and low cell density, providing insights into cell behavior and environmental interactions.
+Using point intensity probability heatmaps, I was able to visualize the attachment patterns, providing insights into cell responses to fluid mechanics. Example plot:
 
-![Probability Heatmap](https://github.com/sl1453/GeoSpatial-Point-Pattern-Analysis/blob/main/Sample_Plots/SamplePlot_Point_Intensity_Probability.jpg)
-*Figure 2: Probability heatmap showing the intensity of cell attachment points.*
+![Probability Heatmap](assets/img/GeoSpatialCellResearh/SamplePlot_Point_Intensity_Probability.jpg)  
+*Figure 2: Probability heatmap showing the intensity of cell attachments.*
 
 ### Image Quadrant Analysis and Chi-Square Test
 
-I divided the images into quadrants and performed cell counting and Chi-Square tests to determine if the cells exhibited aggregated patterns. This statistical approach allowed for a rigorous analysis of cell distribution.
+I also performed Chi-Square tests to statistically determine cell distributions. Example:
 
-![Quadrant Analysis](https://github.com/sl1453/GeoSpatial-Point-Pattern-Analysis/blob/main/Sample_Plots/Plots_Quadrant_Aggregates.jpg)
+![Quadrant Analysis](assets/img/GeoSpatialCellResearh/Plots_Quadrant_Aggregates.jpg)  
 *Figure 3: Quadrant analysis of cell distribution with Chi-Square test results.*
 
 ### Comparison with Manually Created Patterns
 
-To further validate my findings, I manually created random and regular point patterns and compared them with the actual cell attachment distributions. This comparison helped in understanding the degree of randomness or aggregation in the cell patterns.
+To further validate my findings, I manually created random and regular point patterns and compared them with the actual cell distributions. This comparison helped in understanding the degree of randomness in the cell patterns.
 
-![Pattern Comparison](https://github.com/sl1453/GeoSpatial-Point-Pattern-Analysis/blob/main/Sample_Plots/sample_random_regular.jpg)
+![Pattern Comparison](assets/img/GeoSpatialCellResearh/sample_random_regular.jpg)  
 *Figure 4: Comparison of actual cell distribution with manually created random and regular patterns.*
 
 ### Fitting Point Patterns to Distribution Functions
 
-I also fit the point patterns into different distribution functions and compared them with a Poisson distribution to analyze the underlying statistical properties of the cell attachment patterns.
+I also fit the point patterns into different statistical functions to analyze the significance of pattern differences.  
 
-![Distribution Function Fitting](https://github.com/sl1453/GeoSpatial-Point-Pattern-Analysis/blob/main/Sample_Plots/point_distribution_functions_fitting_vs_Prois.jpg)
+![Distribution Function Fitting](assets/img/GeoSpatialCellResearh/point_distribution_functions_fitting_vs_Prois.jpg)  
 *Figure 5: Fitting point patterns to various distribution functions.*
 
 ## Detailed Protocols and Scripts
 
-For those interested in the technical details, my detailed script protocols are available in my GitHub repository. These scripts include loops for processing a series of images taken over time, as well as individual image data loading and analysis.
-
+My detailed scripts are available in my GitHub repository:
 [Explore the GitHub Repository](https://github.com/sl1453/GeoSpatial-Point-Pattern-Analysis/blob/main/README.md)
-
-## Conclusion
-
-Through these analyses, I have gained valuable skills in bioinformatics and statistical analysis, contributing to a deeper understanding of _Giardia_ cell behaviors. These methods can be applied to various other cell types and research questions, highlighting the interdisciplinary nature of modern biological research.
-
-If you have any questions or would like to discuss my work further, please feel free to [contact me](mailto:your-email@example.com).
 
 ---
 
-*Images and plots are examples from my practice, the publication is currently in the review process.*
+*Images and plots are examples, the publication is currently in the review process.*
