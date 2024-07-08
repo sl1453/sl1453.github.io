@@ -24,27 +24,27 @@ Every research has different experimental plans and model organisms, I often had
 
 In addition to command line tools for data transfer and automation, I further enhanced my data visualization skills. I am keen on finding the most effective graphical representations for my results, ensuring they are color blindness friendly and publication ready. Below are examples of 3D graphs, contour maps, and heatmaps I created to represent data involving multiple variables:
 
-![3D plots](/assets/img/BioInfoResearch/3DGraphics.jpg)
+![3D plots](/assets/img/BioInfoResearch/3DGraphics.jpg)  
 *Figure 1: 3D plots created using R for data with three important variables.*
 
-![Contour and Heat Maps](/assets/img/BioInfoResearch/ContourHeat.jpg)
+![Contour and Heat Maps](/assets/img/BioInfoResearch/ContourHeat.jpg)  
 *Figure 2: Contour and heatmaps, useful for revealing general trends and distributions in big data.*
 
 ### Principal Component Analysis and Other Visualizations
 
 Here is an example of Principal Component Plots, which help discover data clustering in up to ten dimensions:
 
-![PC plot](/assets/img/BioInfoResearch/PC.jpg)
+![PC plot](/assets/img/BioInfoResearch/PC.jpg)  
 *Figure 3: Sample Principal Component Plots showing loose data clustering on the first and sixth components.*
 
 Additionally, here is an example of volcano plot, revealing differentially expressed genes:
 
-![volcano plot](/assets/img/BioInfoResearch/Volcano.jpg)
+![volcano plot](/assets/img/BioInfoResearch/Volcano.jpg)  
 *Figure 4: Volcano plot showing differentially expressed genes.*
 
 And here is a heatmap from one of my experiments, displaying RNAseq data of cells in three different conditions:
 
-![Heatmap](/assets/img/BioInfoResearch/HeatMap.jpg)
+![Heatmap](/assets/img/BioInfoResearch/HeatMap.jpg)  
 *Figure 5: Sample heatmap showing RNAseq data of cells under three conditions.*
 
 ---
