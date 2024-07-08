@@ -46,4 +46,4 @@ Additionally, we assess a material's viscous modulus (loss modulus, G") and elas
 
 ---
 
-*Images and plots are examples. The publication is currently under review.*
+*Plot examples are original. The publication is currently under review.*
