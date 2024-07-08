@@ -61,4 +61,4 @@ My detailed scripts are available in my GitHub repository:
 
 ---
 
-*Images and plots are examples, the publication is currently in the review process.*
+*Image and plot examples are original, the publication is currently in the review process.*
