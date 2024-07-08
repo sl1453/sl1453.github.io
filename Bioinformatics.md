@@ -47,6 +47,10 @@ And here is a heatmap from one of my experiments, displaying RNAseq data of cell
 ![Heatmap](/assets/img/BioInfoResearch/HeatMap.jpg)  
 *Figure 5: Sample heatmap showing RNAseq data of cells under three conditions.*
 
+### Bioinformatics Pipelines and Codes
+
+The bioinformatic pipelines and codes I developed or adapted for my research are available in my [GitHub repository](https://github.com/sl1453).
+
 ---
 
 *Image and plot examples are original. The publication is currently under review.*
