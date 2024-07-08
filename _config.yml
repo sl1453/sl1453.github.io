@@ -22,15 +22,14 @@ author: ShicanLion Claire
 navbar-links:
   About: "about"
   Research:
-    - Summary:
     - Cell Bio/Parasitology: "/GeoSpatialResearch"
-    - Biophysics:
-    - Chemical Bio:
-    - Bioinformatics: "https://www.markdowntutorial.com/"
+    - Bioinformatics: "/Bioinformatics"
+    - Biophysics: "/biophysics"
+    - Chemical Bio: "/ChemicalBio"
   Data works:
     - GeoSpatial Analysis: "https://github.com/sl1453/GeoSpatial-Point-Pattern-Analysis/blob/main/README.md"
-    - RNA Seq:
-    - Data Visualization R scripts: "data visulization repository.md"
+    - RNA Seq: "https://github.com/sl1453/Giardia_mucusRNA_Analysis"
+    - Data Visualization R scripts: "      "
   Teaching: "/teaching"
   Influencer Blog: "/blog"
   My Arts: "https://deanattali.com"
