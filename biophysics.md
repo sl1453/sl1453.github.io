@@ -41,7 +41,7 @@ We determined a material's shear thinning or thickening properties by observing 
 
 Additionally, we assess a material's viscous modulus (loss modulus, G") and elastic modulus (storage modulus, G') by applying shear with increased frequencies. When the storage modulus exceeds the loss modulus, it indicates that the fluid's elastic properties dominate at that frequency.
 
-![G'G"All](/assets/img/PhysicsResearch/G'G"All.jpg)    
+![G'G"All](/assets/img/PhysicsResearch/G'G''All.jpg)    
 *Figure 6: Examples of G' and G" for various fluids.*
 
 ---
