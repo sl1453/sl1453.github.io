@@ -28,9 +28,9 @@ I am a passionate and effective **communicator**, both in research and in everyd
 - Conducted organic synthesis for my **undergraduate honors thesis** with the nicest [Professor Cirillo](https://www.newhaven.edu/faculty-staff-profiles/pier-cirillo.php).
 
 ### 🌎 Science Outreach
-- Run a science outreach blog.
+- Run a science outreach blog bridging science with fashion & life.
 - Selected as a **Key Opinion Leader** on a global lifestyle platform for Chinese expats.
-- [Check out some of my top articles](/blog) on The Science of Acquiring Mental Wellness, The Science in Vaccines, and The Science in Perfumery.
+- Check out some of my [top articles](/blog) on The Science of Acquiring Mental Wellness, The Science in Vaccines, and The Science in Perfumery.
   
 ### ❤️ Hobbies
 - When I’m not in the lab, I unwind with **art therapy**. (We all know that Ph.D. students have no vacations, right?)
