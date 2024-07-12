@@ -29,10 +29,10 @@ navbar-links:
   Data works:
     - GeoSpatial Analysis: "https://github.com/sl1453/GeoSpatial-Point-Pattern-Analysis/blob/main/README.md"
     - RNA Seq: "https://github.com/sl1453/Giardia_mucusRNA_Analysis"
-    - Data Visualization R scripts: "      "
+    - Data Visualization R scripts: "https://github.com/sl1453"
   Teaching: "/teaching"
   Influencer Blog: "/blog"
-  My Arts: "https://deanattali.com"
+  My Arts: "arts"
   
   
 ################
@@ -61,14 +61,14 @@ round-avatar: true
 social-network-links:
 
   ORCID: "0009-0008-5622-8932"
-  google-scholar: "citations?user=-4eGXNUAAAAJ&hl=en"
+  google-scholar: "https://scholar.google.com/citations?user=-4eGXNUAAAAJ&hl=en"
   github: "sl1453"
   linkedin: shicanclaireli145379
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  twitter: daattali
+  twitter: ShicanLi
   facebook: "claire.li.lsc/"
-  instagram: lsc996
-#  email: "sl1453@georgetown.edu"
+# instagram: lsc996
+  email: "sl1453@georgetown.edu"
 #  patreon: DeanAttali
 #  youtube: "@daattali"
 #  whatsapp: 15551212
