@@ -11,11 +11,11 @@ I am a passionate and effective **communicator**, both in research and in everyd
 - **10 years** of experience in **cell culture**-based research.
 - Skilled in **command line bioinformatics, microscopy, geospatial pattern analysis,** and **fluid rheology analysis**.
 - Recipient of the DC Cosmos Scholar Research Award. Check out my [interview](https://grad.georgetown.edu/2021/10/18/interview-with-cosmos-scholar-claire-li/) and the [newsletter](https://biology.georgetown.edu/news-story/theyre-out-of-this-world-nicole-wagner-and-shican-claire-li-named-cosmos-scholars%EF%BF%BC/).
-- Past projects in **biophysics** at [Georgetown](https://gufaculty360.georgetown.edu/s/contact/00336000014SkjDAAS/shican-li) and **biochemistry** at Brandeis University.
+- Past projects in **biophysics** at Georgetown and **biochemistry** at Brandeis University.
 - Ph.D. Dissertation:"[Sense and Sense Ability: Giardia in Mucus-Like Viscoelasticity](https://www.proquest.com/docview/3059825765?sourcetype=Dissertations%20&%20Theses)";
 - Publication:"Giardia lamblia Growth and Behavior in a Biomimetic Viscoelastic Mucus-like Environment" (In Review)
 - Master's Publication:"[Boc3Arg-Linked Ligands Induce Degradation by Localizing Target Proteins to the 20S Proteasome](https://pubs.acs.org/doi/10.1021/acschembio.6b00656)"
-- Click the **Research Tabs ☝️** for my research and analysis pipelines? Or start [here](/GeoSpatialResearch).
+- Click the **Research Tabs ☝️** for my research and analysis pipelines! Or start [here](/GeoSpatialResearch).
 
 ### 👩🏻‍🏫 Teaching Highlights
 - Taught **4 semesters' biochemistry lab** and a **genetics lab** at Georgetown University as a teaching fellow.
