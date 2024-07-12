@@ -20,7 +20,7 @@ I am a passionate and effective **communicator**, both in research and in everyd
 ### 👩🏻‍🏫 Teaching Highlights
 - Taught **4 semesters' biochemistry lab** and a **genetics lab** at Georgetown University as a teaching fellow.
 - Served as the **director for the Biochemistry Lab course** for a semester (2 sessions, ~60 students).
-- See my students' thoughts about my classes [here](/teaching).
+- See [my students' comments](/teaching) about my classes.
 
 ### 🎓 Education
 - **Ph.D. in Biology** from **[Georgetown University](https://gufaculty360.georgetown.edu/s/contact/00336000014SkjDAAS/shican-li)** under the guidance of the [amazing Prof. Heidi Elmendorf](https://gufaculty360.georgetown.edu/s/contact/00336000014RdOCAA0/heidi-elmendorf).
