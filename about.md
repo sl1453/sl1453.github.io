@@ -4,7 +4,7 @@ title: About me
 subtitle: Hey there!
 ---
 
-I am a passionate and effective **communicator**, both in research and in everyday life. I have a strong enthusiasm for **interdisciplinary research** and recently discovered a tireless drive for conducting and learning **bioinformatic data analyses**.
+I am a passionate and effective **communicator**, both in research and in everyday life. I have a strong enthusiasm for **interdisciplinary research** and recently discovered a tireless drive for **bioinformatic data analyses**.
 
 
 ### 💼 Research Experience
