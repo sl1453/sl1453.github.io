@@ -61,7 +61,7 @@ round-avatar: true
 social-network-links:
 
   ORCID: "0009-0008-5622-8932"
-  google-scholar: "https://scholar.google.com/citations?user=-4eGXNUAAAAJ&hl=en"
+  google-scholar: 4eGXNUAAAAJ
   github: "sl1453"
   linkedin: shicanclaireli145379
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
