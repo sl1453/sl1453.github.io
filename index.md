@@ -34,9 +34,8 @@ cover-img:
   - "/assets/img/cover29.jpg" : "On Stage, Hainan."
   - "/assets/img/cover30.jpg" : "At Brandeis: When I'm Not in the Lab"
 ---
-Welcome to Asteroid B-678! 🪐, where I share my adventures in science and beyond! (or the website I just taught myself to built![image](https://github.com/user-attachments/assets/0b871b0b-856a-4ea6-bfb1-423ce634f185))
+Welcome to Asteroid B-678! 🪐 (aka the website I finally taught myself to build ✌️) 
 
+I'm Shican (Claire), just graduated with a Ph.D. 🎓 in biology from [Georgetown University](https://gufaculty360.georgetown.edu/s/contact/00336000014SkjDAAS/shican-li). I will share my adventures in science and beyond!
 
-I'm Shican (Claire), just graduated with a Ph.D. 🎓 in biology from [Georgetown University](https://gufaculty360.georgetown.edu/s/contact/00336000014SkjDAAS/shican-li).
-
-Head to the [**About**](about) page, or visit the **tabs ☝️** to dive in. I promise I won't overshare.
+### Head to the [**About**](about) page, or visit the **tabs ☝️** to dive in. I promise I won't overshare.
