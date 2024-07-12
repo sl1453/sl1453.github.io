@@ -6,14 +6,16 @@ subtitle: Cell Culture, Imaging, Statistics ++
 
 ## Introduction
 
-Studying cells has been a essential part of both my Master's research and my Ph.D. projects. In my Master's project, I utilized mammalian cell cultures to investigate the mechanisms of small molecule-mediated tagged protein degradation. My Ph.D. research also heavily involves working with cells, this time, motile cells. I study a protozoan parasite called _Giardia_.
+Working with cells has been a essential part of both my Master's research and my Ph.D. projects. In my Master's project, I utilized mammalian cell cultures to investigate the mechanisms of small molecule-mediated tagged protein degradation. My Ph.D. research also heavily involves working with cells, this time, motile cells. I study a protozoan parasite called _Giardia_.
 
 I will discuss my Master's project on the "Chemical Bio" page. This page focuses on the work from my Ph.D. research, exploring how _Giardia_ responds to physiological-relevant mechanical cues.
 
 
-## General Goal of My Ph.D. Research  
+## Ph.D. Projects  
     
-I study _Giardia_ trophozoites in environments with varying viscoelastic properties that mimicing their host environments during infection. To investigate these motile cells, I developed micro-culture systems that enable systematic imaging of the culture over a time course of growth. This research required conducting live cell imaging using various advanced methods, including confocal and spinning disk microscopy.
+I study _Giardia_ trophozoites in environments with varying viscoelastic properties that mimic their host environments during infection. Details of my research can be found in my dissertation, "[Sense and Sense Ability: Giardia in Mucus-Like Viscoelasticity](https://www.proquest.com/docview/3059825765?sourcetype=Dissertations%20&%20Theses)", which has resulted in two paper drafts—one submitted and another in preparation.
+
+To investigate these motile cells, I developed micro-culture systems that enable systematic imaging of the cultures over a time course of growth. This research involved conducting live cell imaging using advanced techniques, including confocal and spinning disk microscopy.
 
 ![Giardia Cell Image](/assets/img/GeoSpatialCellResearch/GiardiaPic.gif)  
 *Figure 1: Confocal image of a _Giardia_ trophozoite in culture.*
