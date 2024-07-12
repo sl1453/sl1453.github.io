@@ -3,25 +3,29 @@ layout: page
 title: About me
 subtitle: Hey there!
 ---
-I’m Shican, a great communicator passionate about interdisciplinary research. When I’m not busy cracking the mysteries of cells under the microscope, you can find me learning new bioinformatic tricks or blogging to bridge science with fashion. 
+
+I am a passionate and effective **communicator**, both in research and in everyday life. I have a strong enthusiasm for **interdisciplinary research** and recently discovered a tireless drive for conducting and learning **bioinformatic data analyses**.
 
 
 ### 💼 Research Experience
 - **10 years** of experience in **cell culture**-based research.
-- Skilled in **bioinformatics, microscopy, geospatial point pattern analysis,** and **fluid rheological analysis**.
+- Skilled in **command line bioinformatics, microscopy, geospatial pattern analysis,** and **fluid rheology analysis**.
 - Recipient of the DC Cosmos Scholar Research Award. Check out my [interview](https://grad.georgetown.edu/2021/10/18/interview-with-cosmos-scholar-claire-li/) and the [newsletter](https://biology.georgetown.edu/news-story/theyre-out-of-this-world-nicole-wagner-and-shican-claire-li-named-cosmos-scholars%EF%BF%BC/).
-- Past projects in **biophysics** at Georgetown and **biochemistry** at Brandeis University.
-- Curious about my research and data processing pipelines? [Check them out here](/research).
-
-### 🎓 Education
-- **Ph.D. in Biology** from **Georgetown** University under the guidance of the [amazing Prof. Heidi Elmendorf](https://gufaculty360.georgetown.edu/s/contact/00336000014RdOCAA0/heidi-elmendorf).
-- **M.S.** research at **Brandeis** University in the incredible [Hedstrom lab](https://sites.google.com/brandeis.edu/hedstromlab/).
-- Conducted organic synthesis for my **undergraduate honors thesis** with the nicest [Professor Cirillo](https://www.newhaven.edu/faculty-staff-profiles/pier-cirillo.php).
+- Past projects in **biophysics** at [Georgetown](https://gufaculty360.georgetown.edu/s/contact/00336000014SkjDAAS/shican-li) and **biochemistry** at Brandeis University.
+- Ph.D. Dissertation:"[Sense and Sense Ability: Giardia in Mucus-Like Viscoelasticity](https://www.proquest.com/docview/3059825765?sourcetype=Dissertations%20&%20Theses)";
+- Publication:"Giardia lamblia Growth and Behavior in a Biomimetic Viscoelastic Mucus-like Environment" (In Review)
+- Master's Publication:"[Boc3Arg-Linked Ligands Induce Degradation by Localizing Target Proteins to the 20S Proteasome](https://pubs.acs.org/doi/10.1021/acschembio.6b00656)"
+- Click the **Research Tabs ☝️** for my research and analysis pipelines? Or start [here](/GeoSpatialResearch).
 
 ### 👩🏻‍🏫 Teaching Highlights
-- Taught **4 biochemistry lab lectures** and a **genetics lab lecture** during my Ph.D. program.
-- Managed all biochemistry lab class sessions offered by the department for a semester (2 sessions with around 60 students).
-- [See what my students thought about my classes here](/teaching).
+- Taught **4 semesters' biochemistry lab** and a **genetics lab** at Georgetown University as a teaching fellow.
+- Served as the **director for the Biochemistry Lab course** for a semester (2 sessions, ~60 students).
+- See my students' thoughts about my classes [here](/teaching).
+
+### 🎓 Education
+- **Ph.D. in Biology** from **[Georgetown University](https://gufaculty360.georgetown.edu/s/contact/00336000014SkjDAAS/shican-li)** under the guidance of the [amazing Prof. Heidi Elmendorf](https://gufaculty360.georgetown.edu/s/contact/00336000014RdOCAA0/heidi-elmendorf).
+- **M.S.** research at **Brandeis** University in the incredible [Hedstrom lab](https://sites.google.com/brandeis.edu/hedstromlab/).
+- Conducted organic synthesis for my **undergraduate honors thesis** with the nicest [Professor Cirillo](https://www.newhaven.edu/faculty-staff-profiles/pier-cirillo.php).
 
 ### 🌎 Science Outreach
 - Run a science outreach blog.
@@ -30,13 +34,13 @@ I’m Shican, a great communicator passionate about interdisciplinary research. 
   
 ### ❤️ Hobbies
 - When I’m not in the lab, I unwind with **art therapy**. (We all know that Ph.D. students have no vacations, right?)
-- [Explore some of my hobby paintings and opera performance pictures here](/art).
+- Explore some of [my hobby paintings and opera performance pictures here](/art).
 
 ---
 
 ## Connect with Me
 
-### 🔗 Projects and Code
-Interested in my code or want to see more of my projects? [Visit my GitHub repositories]((https://github.com/sl1453).
+### 🔗 Projects and Codes
+Interested in my scripts or more of my projects? [Visit my GitHub repositories]((https://github.com/sl1453).
 
-Feel free to explore whichever part interests you by clicking the navigation bar above! What else do you need? Reach out 👇
+**Please CLICK the navigation bars above to explore!!** What else do you need? Reach out 👇
