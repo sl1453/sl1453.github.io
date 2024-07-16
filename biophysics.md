@@ -5,9 +5,15 @@ subtitle: Rheology & Microscopy
 ---
 
 ## BioPhysics Approach: Rheology & Microscopy
+> #### Key Skills Acquired
+
+* Conducted rheology tests for biological fluids, including plotting and analyzing data.
+* Experienced in various microscopy techniques, such as confocal and spinning disk microscopy.
+* Effectively communicated with diverse audiences from different scientific fields.
+* Proficient in live-cell imaging, with the ability to improvise methods for specific goals.
+* Strong interdisciplinary collaboration skills. 
 
 ### Rheology
-
 During my Ph.D. training, I studied how _Giardia_, a motile protozoan intestinal parasite, influences and also be influenced by the host environment during infection. My biophysical approach involved studying how _Giardia_ cells respond to the mechanical stress in the gastrointestinal tract. Specifically, I used rheology to test the mechanical properties of different fluids, such as viscosity and elasticity, to mimic the in vivo mechanical stress created by mucus in a laboratory setting.
 
 This experience was immensely rewarding. I not only learned the specific skills of how to determine the mechanical properties of materials but also how physicists approach scientific questions. Through extensive collaborations, I gained valuable insights into explaining biological research to physicists or audiences in different fields and vice versa. This interdisciplinary experience has instilled in me a habit of always considering the physical aspects of biological research, which is invaluable for my future investigations.
