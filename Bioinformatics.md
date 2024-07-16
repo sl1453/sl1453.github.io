@@ -4,6 +4,14 @@ title: Bioinformatic Approach
 subtitle: RNA Sequencing & Metabolics
 ---
 
+> #### Key Skills Acquired
+* Command line bioinformatic data processing
+*	RNAseq data analysis pipeline development
+*	GO term and KEGG pathway analysis
+*	RNA extraction and preparation for sequencing
+*	Data visualization and graphical representation
+*	Interdisciplinary collaboration and communication
+  
 ### Introduction
 
 One of the chapters of my dissertation research aims to employ a bioinformatic approach to gain a deeper understanding of how _Giardia_ responds to mucus-like mechanical stresses at the transcriptome level. This involves examining the cellular machinery changes _Giardia_ employs to overcome these mechanical stresses.
