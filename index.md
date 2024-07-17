@@ -38,4 +38,4 @@ Welcome to Asteroid B-678! 🪐 (aka the website I finally taught myself to buil
 
 I'm Shican (Claire), just graduated with a Ph.D. 🎓 in biology from [Georgetown University](https://gufaculty360.georgetown.edu/s/contact/00336000014SkjDAAS/shican-li). I will share my adventures in science and beyond!
 
-### Head to the [**About**](about) page, or visit the **menu tabs ☝️** to dive in. I promise I won't overshare.
+### Head to the [**About**](about) page, or visit the **menu tabs ☝️** to dive in. (No snoozefests, pinky swear!)
