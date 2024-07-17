@@ -4,6 +4,13 @@ title: Cell Behaviors
 subtitle: Cell Culture, Imaging, Statistics ++
 ---
 
+> #### Key Skills Acquired
+* Culturing and maintaining mammalian and motile protozoan cell lines  
+* Protein extraction, purification, Western blotting, and immunostaining
+* Imaging data analysis using R and ImageJ software
+* GeoSpatial pattern analysis and statistical methods in R to study cell attachment patterns and spatial distributions
+* Data visualization in R
+  
 ## Introduction
 
 Working with cells has been a essential part of both my Master's research and my Ph.D. projects. In my Master's project, I utilized mammalian cell cultures to investigate the mechanisms of small molecule-mediated tagged protein degradation. My Ph.D. research also heavily involves working with cells, this time, motile cells. I study a protozoan parasite called _Giardia_.
