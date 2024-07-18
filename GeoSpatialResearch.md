@@ -5,11 +5,15 @@ subtitle: Cell Culture, Imaging, Statistics ++
 ---
 
 > #### Key Skills Acquired
-* Culturing and maintaining mammalian and motile protozoan cell lines  
-* Protein extraction, purification, Western blotting, and immunostaining
-* Imaging data analysis using R and ImageJ software
-* GeoSpatial pattern analysis and statistical methods in R to study cell attachment patterns and spatial distributions
-* Data visualization in R
+* Culturing and maintaining mammalian and motile protozoan cell lines.
+    
+* Protein purification, Western blotting, and immunostaining.
+  
+* Imaging data analysis using R and ImageJ.
+  
+* GeoSpatial pattern analysis in R for cell attachment patterns.
+
+* Statistical methods in R to study spatial distributions.
   
 ## Introduction
 
