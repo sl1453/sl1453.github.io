@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Artistic Endeavors
-subtitle: How I Have Fun Outside the Lab
+title: My Creative Collage
+subtitle: Having Fun Outside the Lab
 ---
 
 Welcome to my creative collage, where I drop and store my artsy memories. This is where I attempt to be an artist outside the lab (emphasis on "attempt" 😄).
