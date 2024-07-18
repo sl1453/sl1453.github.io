@@ -5,12 +5,16 @@ subtitle: Rheology & Microscopy
 ---
 
 ## BioPhysics Approach: Rheology & Microscopy
-> #### Key Skills Acquired
 
-* Conducted rheology tests for biological fluids, including plotting and analyzing data.
-* Experienced in various microscopy techniques, such as confocal and spinning disk microscopy.
-* Effectively communicated with diverse audiences from different scientific fields.
-* Proficient in live-cell imaging, with the ability to improvise methods for specific goals.
+> #### Key Skills Acquired
+* Rheology tests for biological fluid, including plotting and analyzing data.
+  
+* Various microscopy techniques, such as confocal and spinning disk microscopy.
+  
+* Effective communication with team members from diverse fields.
+  
+* Live-cell imaging, and improvising methods for specific goals.
+  
 * Strong interdisciplinary collaboration skills. 
 
 ### Rheology
