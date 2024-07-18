@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Creative Collage
+title: Collage of Creativity
 subtitle: Having Fun Outside the Lab
 ---
 
