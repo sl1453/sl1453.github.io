@@ -5,11 +5,16 @@ subtitle: RNA Sequencing & Metabolics
 ---
 
 > #### Key Skills Acquired
-* Command line bioinformatic data processing
-*	RNAseq data analysis pipeline development
-*	GO term and KEGG pathway analysis
-*	RNA extraction and preparation for sequencing
-*	Data visualization and graphical representation
+* Command line bioinformatic data processing.
+
+*	RNAseq data analysis pipeline development.
+
+*	GO term and KEGG pathway analysis.
+
+*	RNA extraction and preparation for sequencing.
+
+*	Data visualization and graphical representation.
+
 *	Interdisciplinary collaboration and communication
   
 ### Introduction
