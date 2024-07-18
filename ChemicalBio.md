@@ -8,11 +8,15 @@ subtitle: Master's and Undergraduate Research
 
 > #### Key Skills Acquired
 
-* Enzymatic activity assays for proteasome catalytic activity analysis
-* Culturing and maintaining mammalian cell lines (HeLa, HEK293T, LAM)
-* In-cell assays and Western blots for protein degradation studies
-* Plasmid transformation, propagation, and extraction in E. coli
-* Transient transfection of mammalian cells with tagged proteins
+* Enzymatic activity assays for proteasome catalytic activity analysis.
+
+* Culturing and maintaining mammalian cell lines (HeLa, HEK293T, LAM).
+
+* In-cell assays and Western blots for protein degradation studies.
+
+* Plasmid transformation, propagation, and extraction in E. coli.
+
+* Transient transfection of mammalian cells with tagged proteins.
 
 ### Project 1: First Ubiquitin-Free Strategy for Targeted Protein Degradation
 
