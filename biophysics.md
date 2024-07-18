@@ -8,13 +8,13 @@ subtitle: Rheology & Microscopy
 
 > #### Key Skills Acquired
 * Rheology tests for biological fluid, including plotting and analyzing data.
-  
+
 * Various microscopy techniques, such as confocal and spinning disk microscopy.
-  
+
 * Effective communication with team members from diverse fields.
-  
+
 * Live-cell imaging, and improvising methods for specific goals.
-  
+
 * Strong interdisciplinary collaboration skills. 
 
 ### Rheology
