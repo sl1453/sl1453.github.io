@@ -41,7 +41,7 @@ I am a passionate and effective **communicator**, both in research and in everyd
 ## Connect with Me
 
 ### 🔗 Projects and Codes
-Interested in my scripts or more of my projects? [Visit my GitHub repositories]((https://github.com/sl1453).
+Interested in my scripts or more of my projects? [Visit my GitHub repositories](https://github.com/sl1453).
 
 **Please CLICK the navigation bars above ☝️ to explore!!**   
 What else do you need? Reach out
