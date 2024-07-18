@@ -59,6 +59,4 @@ _Performance for the Mid-Autumn Festival at Brandeis_
 
 ---
 
-*These are my memorable artistic moments. Thanks for taking a look!*
-
 
