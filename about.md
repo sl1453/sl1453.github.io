@@ -20,6 +20,7 @@ I am a passionate and effective **communicator**, both in research and in everyd
 ### 👩🏻‍🏫 Teaching Highlights
 - Taught **4 semesters' biochemistry lab** and a **genetics lab** at Georgetown University as a teaching fellow.
 - Served as the **director for the Biochemistry Lab course** for a semester (2 sessions, ~60 students).
+- Nominated for the Georgetown **Graduate Teaching Award** by my students. 
 - See [my students' comments](/teaching) about my classes.
 
 ### 🎓 Education
