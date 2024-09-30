@@ -8,7 +8,7 @@ cover-img:
   - "/assets/img/cover1.jpg" : "When I'm Not in the Lab: Painting for Fun."
   - "/assets/img/cover2.jpg" : "My COOL Lab Work: Handling Cells with Liquid Nitrogen"
   - "/assets/img/cover2_1.jpg" : "My COOL Lab Work: Handling Cells with Liquid Nitrogen"
-  - "/assets/img/cover3.jpg" : "COSMOS Scholar Award."
+  #- "/assets/img/cover3.jpg" : "COSMOS Scholar Award."
   - "/assets/img/cover4.jpg" : "When I'm Not in the Lab: Opera Debut, DC."
   - "/assets/img/cover5.jpg" : "Graduated! Georgetown."
   - "/assets/img/cover6.jpg" : "Opera Debut, DC."
