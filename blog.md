@@ -8,7 +8,7 @@ permalink: /blog/
 #<p class="intro-subtitle">{{ page.subtitle }}</p>
 ---
 
-<p class="intro-text">Explore the intersection of science and lifestyle through some of the top viewed articles from my KOL blog. All contents are original from my KOL page in Chinese on <a href="https://www.dealmoon.com/u/353625?type=guide">here</a>.</p>
+<p class="intro-text">Explore the intersection of science and lifestyle through some of the top viewed articles from my KOL blog. All contents are original from my KOL page written in Chinese on DealMoon.
 
 <div class="posts-list">
   {% for post in site.posts %}
