@@ -35,7 +35,7 @@ I am a passionate and effective **communicator**, both in research and in everyd
   
 ### ❤️ Hobbies
 - When I’m not in the lab, I unwind with **art therapy**. (We all know that Ph.D. students have no vacations, right?)
-- Explore some of my hobby paintings and opera performance pictures [here](/art).
+- Explore some of my hobby paintings and opera performance pictures [here](/arts).
 
 ---
 
