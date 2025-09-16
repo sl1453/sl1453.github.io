@@ -12,7 +12,7 @@ I am a passionate and effective **communicator**, both in research and in everyd
 - Skilled in **command line bioinformatics, microscopy, geospatial pattern analysis,** and **fluid rheology analysis**.
 - Recipient of the DC Cosmos Scholar Research Award. Check out my [interview](https://grad.georgetown.edu/2021/10/18/interview-with-cosmos-scholar-claire-li/) and the [newsletter](https://biology.georgetown.edu/news-story/theyre-out-of-this-world-nicole-wagner-and-shican-claire-li-named-cosmos-scholars%EF%BF%BC/).
 - Past projects in **biophysics** at Georgetown and **biochemistry** at Brandeis University.
-- Ph.D. Dissertation:"**Sense and Sense Ability: Giardia in Mucus-Like Viscoelasticity**"<!-- [view](https://www.proquest.com/docview/3059825765?sourcetype=Dissertations%20&%20Theses)-->;<!-- This is a comment and won't appear in the output -->
+- Ph.D. Dissertation:"[**Sense and Sense Ability: Giardia in Mucus-Like Viscoelasticity**](https://repository.digital.georgetown.edu/handle/10822/1088581)"<!-- [view](https://www.proquest.com/docview/3059825765?sourcetype=Dissertations%20&%20Theses)-->;<!-- This is a comment and won't appear in the output -->
 - Publication:"Giardia lamblia Growth and Behavior in a Biomimetic Viscoelastic Mucus-like Environment" (In Review)
 - Master's Publication:"Boc3Arg-Linked Ligands Induce Degradation by Localizing Target Proteins to the 20S Proteasome"[view](https://pubs.acs.org/doi/10.1021/acschembio.6b00656)"
 - Click the **Research Tabs ☝️** for my research and analysis pipelines!
