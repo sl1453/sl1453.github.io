@@ -10,10 +10,10 @@ body { font-family: var(--font-sans); }
 img { max-width: 100%; height: auto; }
 
 .page-subtitle-minor {
-  font-size: 2rem;          /* smaller than subtitle */
+  font-size: 1.25rem;          /* smaller than subtitle */
   font-weight: 400;
   line-height: 1.4;
-  margin-top: 0.1rem;      /* snug under subtitle */
+  margin-top: 0.02rem;      /* snug under subtitle */
   text-align: center;
   color: #FFFFFF;              /* lighter so it doesn't compete */
 }
