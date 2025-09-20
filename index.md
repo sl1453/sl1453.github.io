@@ -3,7 +3,7 @@ layout: page
 title: "Hi, I'm Shican"
 title-minor: "(like: 📣shrr-tsahn, you got it! ^.^)"
 subtitle: "Biomedical & Biophysical Researcher | Bioinformatics and Data Scientist | Passionate Communicator & Teacher"
-subtitle-minor: "Founder of [BioPath Analytica](https://BioPathAnalytica.github.io) · Open to opportunities in China"
+subtitle-minor: "Founder of **[BioPath Analytica](https://BioPathAnalytica.github.io)** · Open to opportunities in China"
 
 cover-img: 
   - "/assets/img/cover1.jpg" : "When I'm Not in the Lab: Painting for Fun."
