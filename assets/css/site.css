@@ -10,13 +10,13 @@ body { font-family: var(--font-sans); }
 img { max-width: 100%; height: auto; }
 
 .page-subtitle-minor {
-  font-size: 1.25rem;          /* smaller than subtitle */
+  font-size: 1.4rem;          /* smaller than subtitle */
   font-weight: 400;
   line-height: 1.4;
-  margin-top: 0.02rem;      /* snug under subtitle */
+  margin-top: 0.05rem;      /* snug under subtitle */
   text-align: center;
   color: #FFFFFF;              /* lighter so it doesn't compete */
 }
 
 /* If your header has extra spacing you want to tighten: */
-.intro-header .page-subtitle + .page-subtitle-minor { margin-top: 0.25rem; }
+/* .intro-header .page-subtitle + .page-subtitle-minor { margin-top: 0.25rem; } */
