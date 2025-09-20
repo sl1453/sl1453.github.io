@@ -38,8 +38,8 @@ cover-img:
 ---
 Welcome to Asteroid B-678! 🪐 (aka the website I finally taught myself to build ✌️) 
 
-I'm Shican (Claire), just graduated with a Ph.D. 🎓 in biology from [Georgetown University](https://gufaculty360.georgetown.edu/s/contact/00336000014SkjDAAS/shican-li). I founded **[BioPath Analytica](https://your-business-website.com)** as a **non-profit bio consultation web project** — an experimental entrepreneurship prototype to gain real-life experience as a biologist and enrich my post-graduate journey in bioinformatics practices.  
+I'm Shican (Claire), a Ph.D. 🎓 in biology from [Georgetown University](https://gufaculty360.georgetown.edu/s/contact/00336000014SkjDAAS/shican-li). I founded **[BioPath Analytica](https://your-business-website.com)** as a non-profit bio consultation web project — an experimental entrepreneurship prototype to gain real-life experience as a biologist and enrich my post-graduate journey in bioinformatics practices.  
 
-I’m beginning my post-doc fellowship at Upenn while also preparing for the next stage of my career in China. I’ll continue to share my adventures in science and beyond!I will share my adventures in science and beyond!
+I’m beginning my post-doc fellowship at Upenn while also preparing for the next stage of my career in China. I’ll continue to share my adventures in science and beyond!
 
 ### Head to the [**About**](about) page, or visit the **menu tabs ☝️** to dive in. (No snoozefests, pinky swear!)
