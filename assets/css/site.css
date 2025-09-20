@@ -8,3 +8,15 @@ body { font-family: var(--font-sans); }
 /* optional stability tweaks */
 .navbar-brand img { max-height: 48px; height: auto; }
 img { max-width: 100%; height: auto; }
+
+.page-subtitle-minor {
+  font-size: 1rem;          /* smaller than subtitle */
+  font-weight: 400;
+  line-height: 1.4;
+  margin-top: 0.35rem;      /* snug under subtitle */
+  text-align: center;
+  color: #666;              /* lighter so it doesn't compete */
+}
+
+/* If your header has extra spacing you want to tighten: */
+.intro-header .page-subtitle + .page-subtitle-minor { margin-top: 0.25rem; }
