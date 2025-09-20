@@ -35,6 +35,10 @@
               <h2 class="page-subtitle {{ include.type }}-subheading">{{ page.subtitle | strip_html }}</h2> <!-- Changed line -->
             {% endif %}
           {% endif %}
+
+          {% if page.subtitle-minor %}
+            <div class="page-subtitle-minor">{{ page.subtitle-minor }}</div>
+          {% endif %}
           
           {% if include.type == "post" %}
             {% if page.author %}
