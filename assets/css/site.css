@@ -1,0 +1,10 @@
+:root {
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+               "Helvetica Neue", Arial, "Noto Sans", "PingFang SC",
+               "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+}
+body { font-family: var(--font-sans); }
+
+/* optional stability tweaks */
+.navbar-brand img { max-height: 48px; height: auto; }
+img { max-width: 100%; height: auto; }
