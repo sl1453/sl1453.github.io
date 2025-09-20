@@ -37,8 +37,11 @@
           {% endif %}
 
           {% if page.subtitle-minor %}
-            <div class="page-subtitle-minor">{{ page.subtitle-minor }}</div>
+            <div class="page-subtitle-minor">
+              {{ page.subtitle-minor | markdownify }}
+            </div>
           {% endif %}
+
           
           {% if include.type == "post" %}
             {% if page.author %}
