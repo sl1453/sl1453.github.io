@@ -2,7 +2,8 @@
 layout: page
 title: "Hi, I'm Shican"
 title-minor: "(like: 📣shrr-tsahn, you got it! ^.^)"
-subtitle: "Biomedical & Biophysical Researcher | Bioinformatics and Data Science Enthusiast | Passionate Communicator | Excellent Teacher | Open to Opportunities"
+subtitle: "Biomedical & Biophysical Researcher | Bioinformatics and Data Scientist | Passionate Communicator & Teacher"
+subtitle-minor: "Founder of [BioPath Analytica](https://BioPathAnalytica.github.io) · Open to opportunities in China"
 
 cover-img: 
   - "/assets/img/cover1.jpg" : "When I'm Not in the Lab: Painting for Fun."
@@ -37,6 +38,8 @@ cover-img:
 ---
 Welcome to Asteroid B-678! 🪐 (aka the website I finally taught myself to build ✌️) 
 
-I'm Shican (Claire), just graduated with a Ph.D. 🎓 in biology from [Georgetown University](https://gufaculty360.georgetown.edu/s/contact/00336000014SkjDAAS/shican-li). I will share my adventures in science and beyond!
+I'm Shican (Claire), just graduated with a Ph.D. 🎓 in biology from [Georgetown University](https://gufaculty360.georgetown.edu/s/contact/00336000014SkjDAAS/shican-li). I founded **[BioPath Analytica](https://your-business-website.com)** as a **non-profit bio consultation web project** — an experimental entrepreneurship prototype to gain real-life experience as a biologist and enrich my post-graduate journey in bioinformatics practices.  
+
+I’m beginning my post-doc fellowship at Upenn while also preparing for the next stage of my career in China. I’ll continue to share my adventures in science and beyond!I will share my adventures in science and beyond!
 
 ### Head to the [**About**](about) page, or visit the **menu tabs ☝️** to dive in. (No snoozefests, pinky swear!)
