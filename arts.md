@@ -13,7 +13,8 @@ Welcome to my creative collage, where I drop and store my artsy memories. This i
   <source src="/assets/img/arts/lion2024.mp4" type="video/mp4">
 </video>
 </div>
-*My self-portrait (2024), made alive by me and AI.*
+
+_My self-portrait (2024), made alive by me and my AI_
 
 ![horse](/assets/img/arts/horse1.jpg)  
 _My hobby paintings for fun_
