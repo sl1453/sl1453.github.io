@@ -39,7 +39,7 @@ cover-img:
 ---
 Welcome to Asteroid B-678! 🪐 (aka the website I finally taught myself to build ✌️) 
 
-I'm Shican (Claire), a Ph.D. 🎓 in biology from [Georgetown University](https://gufaculty360.georgetown.edu/s/contact/00336000014SkjDAAS/shican-li). 
+I'm Shican (Claire), a Ph.D. 🎓 in biology from [Georgetown University](https://gufaculty360.georgetown.edu/s/contact/00336000014SkjDAAS/shican-li), and currently a postdoc at [Upenn School of Medicine](https://www.med.upenn.edu/orl/dymentlab/personnel.html).  
 
 {% comment %}
 I founded **[BioPath Analytica](https://BioPathAnalytica.github.io)** as a non-profit, web-based bio consultation business — an experimental entrepreneurship project to gain real-life experience as a biologist and enrich my post-graduate journey in bioinformatics practices.
