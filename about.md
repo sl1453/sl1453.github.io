@@ -8,7 +8,7 @@ I am a passionate and effective **communicator**, both in research and in everyd
 
 
 ### 💼 Research Experience
-- **10 years** of experience in **cell culture**-based research.
+- **10 years** of experience in cellular, mechanical, and chemical biology research.
 - Skilled in **command line bioinformatics, microscopy, geospatial pattern analysis,** and **fluid rheology analysis**.
 - Recipient of the DC Cosmos Scholar Research Award. Check out my [interview](https://grad.georgetown.edu/2021/10/18/interview-with-cosmos-scholar-claire-li/) and the [newsletter](https://biology.georgetown.edu/news-story/theyre-out-of-this-world-nicole-wagner-and-shican-claire-li-named-cosmos-scholars%EF%BF%BC/).
 - Past projects in **biophysics** at Georgetown and **biochemistry** at Brandeis University.
