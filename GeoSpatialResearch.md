@@ -35,7 +35,7 @@ To investigate these motile cells, I developed micro-culture systems that enable
 
 One of the challenges was to analyze the attachment patterns of _Giardia_ trophozoites. I adopted a method commonly used in GeoSpatial research to analyze point pattern distributions, applying these statistical techniques to study the spatial attachment patterns of the cells.
 
-### R Language and Data Analysis  
+### Data Analysis  
   
 One of my key strengths is my willingness to engage with people from different labs and departments, and my adaptability in taking on various roles. For this particular challenge, I was inspired by the methods often used by geo-scientists, which differ significantly from the traditional experimental approaches usually used by biologists. This adaptation led me to teach myself R programming for processing biological images and performing statistical analyses. Here are some examples of the analyses I conducted:
 
@@ -53,16 +53,18 @@ I also performed Chi-Square tests to statistically determine cell distributions.
 ![Quadrant Analysis](/assets/img/GeoSpatialCellResearch/Plots_Quadrant_Aggregates.jpg)  
 *Figure 3: Quadrant analysis of cell distribution with Chi-Square test results.*
 
+{% comment %}
 ### Comparison with Manually Created Patterns
 
 To further validate my findings, I manually created random and regular point patterns and compared them with the actual cell distributions. This comparison helped in understanding the degree of randomness in the cell patterns.
 
 ![Pattern Comparison](/assets/img/GeoSpatialCellResearch/sample_random_regular.jpg)  
 *Figure 4: Comparison of actual cell distribution with manually created random and regular patterns.*
+{% endcomment %}
 
 ### Fitting Point Patterns to Distribution Functions
 
-I also fit the point patterns into different statistical functions to analyze the significance of pattern differences.  
+Different statistical functions to analyze the significance of pattern differences.  
 
 ![Distribution Function Fitting](/assets/img/GeoSpatialCellResearch/point_distribution_functions_fitting_vs_Prois.jpg)  
 *Figure 5: Fitting point patterns to various distribution functions.*
