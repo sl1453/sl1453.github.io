@@ -8,6 +8,13 @@ Welcome to my creative collage, where I drop and store my artsy memories. This i
 
 ### Hobby Paintings
 
+<div style="text-align:center;">
+<video controls width="700">
+  <source src="/assets/img/arts/lion2024.mp4" type="video/mp4">
+</video>
+</div>
+*My self-portrait (2024), made alive by me and AI.*
+
 ![horse](/assets/img/arts/horse1.jpg)  
 _My hobby paintings for fun_
 
