@@ -38,7 +38,7 @@ Explore the **Research tabs** ☝️ for more details about my projects and anal
   
 ### ❤️ Hobbies
 - When I’m not in the lab, I unwind with Opera, Painting, Argentine tango and **explore the connection between Science and perfumery**. (Who said researchers get vacations anyway? 😆)
-- Explore some of my hobby paintings and opera performance pictures [here](/arts).
+- Explore some of my hobby [paintings and opera performance pictures here](/arts).
 
 ---
 
