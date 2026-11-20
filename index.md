@@ -41,10 +41,14 @@ Welcome to Asteroid B-678! 🪐 (aka the website I finally taught myself to buil
 
 I'm Shican (Claire), a Ph.D. 🎓 in biology from [Georgetown University](https://gufaculty360.georgetown.edu/s/contact/00336000014SkjDAAS/shican-li), and currently a postdoc at [Upenn School of Medicine](https://www.med.upenn.edu/orl/dymentlab/personnel.html).  
 
+My scientific journey has taken me across cell biology, biophysics, mechanobiology, and musculoskeletal research driven by a fascination with how cells sense and respond to their physical environments.
+
+During my Ph.D., I studied how viscoelastic environments influence the behavior and gene expression of Giardia lamblia, combining microscopy, biophysical approaches, and RNA-seq analysis. At Penn, I've expanded into musculoskeletal mechanobiology, investigating the roles of non-muscle myosin II in knee development through mouse genetics, histology, fluorescence microscopy, and micro-CT imaging.
+
 {% comment %}
 I founded **[BioPath Analytica](https://BioPathAnalytica.github.io)** as a non-profit, web-based bio consultation business — an experimental entrepreneurship project to gain real-life experience as a biologist and enrich my post-graduate journey in bioinformatics practices.
 {% endcomment %} 
 
-I’m beginning my postdoctoral fellowship at UPenn, continuing to explore where biology meets physics in the Dyment Lab. I’ll keep sharing my adventures in science and beyond.
+I'm particularly interested in bridging experimental biology with quantitative imaging and computational approaches to explore complex biological questions.
 
 ### Head to the [**About**](about) page, or visit the **menu tabs ☝️** to dive in. (No snoozefests, pinky swear!)
